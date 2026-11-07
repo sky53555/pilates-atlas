@@ -96,3 +96,20 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - **050 Leg Pull Front Prep**, printed p.52: quadruped knee hover with alternating leg lifts, detailed printed eight-phase breathing; band variation. Repeated 'Knee Off' text preserved without silently correcting.
 - All six actual JPG pages opened and read, with printed Why/Starting Position/Breathing/Movement Point/Watch Point/Variation separately captured and instructor additions labeled COACHING. Detailed entries committed to movement-manual.html at 0e4205d32dd508a238989e2940ad68784e4ec9f0.
 - **Verified count 26/186** (prior 20 + 6). Next: 056–069 Mat/Small Props and apparatus; also independent Curl Up 010 vs Roll Up 018 recheck. Site deployment still unverified.
+
+
+## 2026-11-08 05:00 KST — source photographs 056–066 inspected (11 pages)
+- **056 (printed p.59)** Arc Barrel upper-thoracic overview: Curl Up, Hundred, Single Leg Stretch, Criss Cross; the page explicitly says Mat sequence/breathing/cautions unchanged. No new breathing invented.
+- **057 (p.60)** Arc Barrel upper-thoracic Scissor/Double Leg Stretch, and pelvic-support Scissor/Double Leg Lower & Lift/Shoulder Bridge. Support indications and distinct contact points recorded. No independent breathing printed.
+- **058 (p.61)** seated Arc Barrel (=Box): Spine Stretch Forward, Spine Roll Back, Spine Lean Back, Roll Down, Spine Twist, Mermaid with Rotation. Six separate pictured adaptations, no new printed breathing.
+- **059 (p.62)** prone Arc Barrel: Breast Stroke Prep Hand by Shoulder, Slow Swan, Single Leg Extension, Double Leg Extension; lumbar tension/anterior tilt support indicated. No new breathing printed.
+- **060 (p.63)** Gym Ball introduction, sizing guidance and Curl Up/Hundred/Criss Cross photos; source says Mat breath and cautions remain unchanged.
+- **061 (p.64)** Gym Ball Bridge and Single Leg Lift are TWO distinct exercises. Printed breathing recorded verbatim, including ambiguous 'Leg Off' labels, not silently corrected.
+- **062 (p.65)** Gym Ball Double Leg Lower & Lift (no printed breath on this page) and Back Extension (INHALE Ready → EXHALE Spinal Extension → INHALE Return).
+- **063 (p.66)** Gym Ball Scapula Movement (INHALE Reach Arm bend → EXHALE Return), plus separate Pec Stretch without printed breathing.
+- **064 (p.67)** Circle Lat Press (INHALE Ready → EXHALE Circle Press), Single Lat Press, Mermaid, Arm Press AB, Hundred. Important correction: Mermaid photo uses ONE hand on upright Circle, not a two-hand Circle grip.
+- **065 (p.68)** Circle Double Leg Stretch, Adductor Press, Hamstring Curl, Double Leg Extension. No printed breathing; Double Leg Extension knee-angle warning preserved.
+- **066 (p.69)** Circle Hamstring/Adductor/IT-Band Stretch, three directions with printed EXHALE phases; pelvic/shoulder contact cautions preserved.
+- All eleven actual JPG images opened and visually read. SOURCE/COACHING separately entered in `movement-manual.html`; photo overview pages are **verified as source-photo overviews**, not fabricated independent exercise protocols. Commits `d4ce635a58e25d46ed62a55b9bda12f2a92bd203`, `8564b6eb4eed19bfa21f90d2811f52e2aee5c3c1`.
+- **Verified source-photo pages 37/186** (previous 26 + 11). Next: **067–069**, then 010 Curl Up vs 018 Roll Up independent photo comparison, then apparatus folder. If a photo fetch fails, log it and continue with another page.
+- Public GitHub Pages deployment remains **unverified**; do not present a public URL as functioning until HTTP success.
