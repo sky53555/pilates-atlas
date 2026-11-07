@@ -42,3 +42,8 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 |---|---:|---:|---:|
 | Mat / Small Props | 69 | Partial | 0 confirmed end-to-end |
 | Apparatus | 117 | Partial | 1 Cadillac example (requires final QC) |
+
+## 2026-11-07 22:00 KST — source-photo verified
+- Mat 011 · Hundred: opened and visually read original photographed textbook page 13 (attached image). Confirmed source sequence: INHALE Shoulder Flexion → EXHALE Hundred Position → INHALE 5 Pulse → EXHALE 5 Pulse × 10 sets (100 counts) → IN & EXHALE Return. Confirmed movement points, 3 Watch Points, Arc Barrel / props / staccato variations, and handwritten lower-back cue. Updated `movement-manual.html` accordingly. Status: **source-photo inspected, analyzed, verified (1 page)**.
+- Mat 010 · Curl Up: earlier source-photo review and correction; needs independent final QC before adding to verified count.
+- Remaining source photographs have **not** been marked verified. Preserve this distinction.
