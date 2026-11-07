@@ -66,3 +66,7 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - All four detailed source-separated entries saved to `movement-manual.html`, commit `26d64f5ec07b251b48e5ce412d023e1fe167e483`.
 - **Next inspection**: 035–050, then 056–069 and apparatus. Verified ledger: **10/186**; other summaries remain unverified.
 - **Public Pages check**: `https://sky53555.github.io/pilates-atlas/movement-manual.html` was not accessible through current web retrieval; do not mark published until independently confirmed. GitHub source update succeeded.
+
+## 2026-11-08 01:00 KST — Mat 035 source verified
+- **035 · Swimming**, printed p.37: original photo opened and visually inspected. Verified prone neutral spine/pelvis, arms and legs extended shoulder-width; INHALE Ready → EXHALE spinal extension/right arm + left leg → INHALE & EXHALE other side → INHALE & EXHALE return. Movement points: transverse abdominis/pelvic floor, obliques/erector spinae, hip extensors, scapular stabilizers. Watch points: abdominal support for spinal neutrality, shoulder-girdle stability, trunk wobble, natural breathing. Printed variation: simultaneous arm and leg lift. Red handwritten annotation near starting position is ambiguous; **not** treated as verified text.
+- Added detailed source/coaching-separated `detail["035"]` to `movement-manual.html`. Photo verified count: **11/186**. Next: 036 onward; Curl Up/Roll Up independent QC remains pending.
