@@ -40,10 +40,20 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 ## Progress ledger
 | Collection | Indexed | Photo-inspected | Source-verified detailed analysis |
 |---|---:|---:|---:|
-| Mat / Small Props | 69 | Partial | 0 confirmed end-to-end |
+| Mat / Small Props | 69 | 011 and 051–055 directly inspected (at least 6) | 6 source-verified pages (011, 051–055) |
 | Apparatus | 117 | Partial | 1 Cadillac example (requires final QC) |
 
 ## 2026-11-07 22:00 KST — source-photo verified
 - Mat 011 · Hundred: opened and visually read original photographed textbook page 13 (attached image). Confirmed source sequence: INHALE Shoulder Flexion → EXHALE Hundred Position → INHALE 5 Pulse → EXHALE 5 Pulse × 10 sets (100 counts) → IN & EXHALE Return. Confirmed movement points, 3 Watch Points, Arc Barrel / props / staccato variations, and handwritten lower-back cue. Updated `movement-manual.html` accordingly. Status: **source-photo inspected, analyzed, verified (1 page)**.
 - Mat 010 · Curl Up: earlier source-photo review and correction; needs independent final QC before adding to verified count.
 - Remaining source photographs have **not** been marked verified. Preserve this distinction.
+
+## 2026-11-07 23:00 KST — five more original photos verified
+- **051 · Leg Pull Front**, printed page 53: actual photo opened; verified hand-supported neutral plank, one-leg lift, INHALE lift / EXHALE plantar flexion / INHALE dorsiflexion / EXHALE return, anti-rotation and forearm variation.
+- **052 · Leg Pull Up**, printed page 54: actual photo opened; verified reverse support, EXHALE hip lift / INHALE single-leg hip flexion / EXHALE hip extension, scapular stabilization, four printed watch points. Handwritten note partially unclear, explicitly flagged.
+- **053 · Push Up**, printed page 55: actual photo opened; verified standing roll-down → hand-walk → push-up → hand-walk → roll-up sequence, elbow breathing, and source variation omitting roll-down/up.
+- **054 · Push Up continuation**, printed page 56: actual photo opened; confirmed this is **not a separate exercise**, but detailed Roll Down & Hands Walking / Hand Walking & Roll Up instructions; cross-linked conceptually to 053 without inventing a new exercise.
+- **055 · Plank**, printed page 57: actual photo opened; verified **forearm plank**, not hand plank; EXHALE entry and return, knee-supported and box-supported variations.
+- All five pages updated in `movement-manual.html` with `SOURCE` vs `COACHING` distinctions and photo-specific movement, foot contact, hip rotation, gaze, muscles, compensations and variations. Git commit `cccb51eff4712918dfb7353260dd90a6d8efe0e4`.
+- **Next inspection**: 031–050, then 056–069, and apparatus pages. Do not mark as verified until opened and checked.
+- **Publishing**: public Pages URL could not be fetched from current environment; deployment remains unverified. GitHub source commits are confirmed. Retry public HTTP check on next run; do not call 404 fixed without evidence.
