@@ -85,3 +85,14 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - **043** · printed p.45: original JPG opened and read, title/Why/Starting Position/Breathing/Movement Point/Watch Point/Variation inspected. Detailed SOURCE and COACHING separated entry saved to movement-manual.html. Status: **verified**. Breast Stroke uses EXHALE cervical and upper thoracic extension, not a generic lumbar backbend.
 - **044** · printed p.46: original JPG opened and read, title/Why/Starting Position/Breathing/Movement Point/Watch Point/Variation inspected. Detailed SOURCE and COACHING separated entry saved to movement-manual.html. Status: **verified**. Slow Swan has a distinct rocking phase and source variation omitting rocking.
 - Total verified: **20/186** (previous 15 + 5). Next: 045–050; Curl Up 010 vs Roll Up 018 independent recheck pending. Unclear handwritten annotations explicitly excluded from verified source facts.
+
+
+## 2026-11-08 04:00 KST — Mat 045–050 original photographs inspected and verified
+- **045 Spinal Release**, printed p.47: source image opened; seated flexion with hips supported; breathing INHALE/EXHALE spinal release, INHALE keep, EXHALE articulation. Source variation supine knee-to-chest. Handwriting partly uncertain.
+- **046 Single Leg Extension**, printed p.48: prone external rotation, one leg hip extension, INHALE ready / EXHALE lift / INHALE keep / EXHALE return. Arc Barrel and ASIS-pad variations.
+- **047 Double Leg Extension**, printed p.49: prone bilateral leg extension, source INHALE/EXHALE/INHALE/EXHALE sequence; ASIS-pad and two-stage-breath variations.
+- **048 Hamstring Curl**, printed p.50: prone knee flexion → small extension → flexion → extension with six printed breathing phases; ASIS pad and single-curl variation.
+- **049 Heel Squeeze**, printed p.51: prone, knees bent, slightly externally rotated hips, heels meet; INHALE ready / EXHALE heel squeeze. No printed variation section; not invented.
+- **050 Leg Pull Front Prep**, printed p.52: quadruped knee hover with alternating leg lifts, detailed printed eight-phase breathing; band variation. Repeated 'Knee Off' text preserved without silently correcting.
+- All six actual JPG pages opened and read, with printed Why/Starting Position/Breathing/Movement Point/Watch Point/Variation separately captured and instructor additions labeled COACHING. Detailed entries committed to movement-manual.html at 0e4205d32dd508a238989e2940ad68784e4ec9f0.
+- **Verified count 26/186** (prior 20 + 6). Next: 056–069 Mat/Small Props and apparatus; also independent Curl Up 010 vs Roll Up 018 recheck. Site deployment still unverified.
