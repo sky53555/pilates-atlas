@@ -1,3 +1,9 @@
+> ⚠️ **SUPERSEDED / 사용 중지:** This 20-minute mat-only draft does not meet the user's confirmed practical exam rules. Do not use it as the final exam sequence.
+>
+> **Confirmed exam rules:** 25-minute sequence teaching + 2 random exercises; approximately 12 counted exercises; at least 3 of Mat, Reformer, Cadillac, Chair, Barrel; at least one variation and one small prop; maximum 3 repetitions per exercise; choose only one exercise from each series; preparatory/awareness movements are not counted; textbook exercises only; account for equipment transitions and spring setup; prepare regression/progression and member-safety responses.
+>
+> **Next deliverable:** a photo-checked, equipment-inclusive 25-minute sequence with full spoken cues. Do not claim that this draft satisfies the exam.
+
 # Pilates Atlas · Sequence Practical Exam / 시퀀스 실기시험 대본
 
 > **Status:** Instructor-created exam sequence (강사 구성안), **not a photographed textbook sequence**. Source-verified exercises used: Mat 011, 031–034, 055. The breathing below follows verified notes where available; transitions and timing are instructor additions. This does **not** mean all 186 photos are verified.
