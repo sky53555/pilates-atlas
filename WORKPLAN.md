@@ -40,7 +40,7 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 ## Progress ledger
 | Collection | Indexed | Photo-inspected | Source-verified detailed analysis |
 |---|---:|---:|---:|
-| Mat / Small Props | 69 | 011 and 051–055 directly inspected (at least 6) | 6 source-verified pages (011, 051–055) |
+| Mat / Small Props | 69 | 011, 031–034 and 051–055 directly inspected (10) | 10 source-verified pages (011, 031–034, 051–055) |
 | Apparatus | 117 | Partial | 1 Cadillac example (requires final QC) |
 
 ## 2026-11-07 22:00 KST — source-photo verified
@@ -57,3 +57,12 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - All five pages updated in `movement-manual.html` with `SOURCE` vs `COACHING` distinctions and photo-specific movement, foot contact, hip rotation, gaze, muscles, compensations and variations. Git commit `cccb51eff4712918dfb7353260dd90a6d8efe0e4`.
 - **Next inspection**: 031–050, then 056–069, and apparatus pages. Do not mark as verified until opened and checked.
 - **Publishing**: public Pages URL could not be fetched from current environment; deployment remains unverified. GitHub source commits are confirmed. Retry public HTTP check on next run; do not call 404 fixed without evidence.
+
+## 2026-11-08 00:00 KST — four more original photos verified
+- **031 · Mermaid with Rotation**, printed p.33: photographed source opened and read. Cross-legged start, INHALE shoulder abduction / EXHALE lateral flexion + rotation / INHALE elongation / EXHALE return. Verified pelvic verticality, obliques and variations (Arc Barrel/Box; omit rotation).
+- **032 · Side Bend Mermaid Prep**, printed p.34: source opened. One-buttock/knee/hand support, externally rotated top hip, INHALE ready / EXHALE lateral flexion / INHALE return. Verified hand/knee alignment, elbow and scapular warnings, both-knees and straight-knee variations. Unclear handwritten note explicitly flagged.
+- **033 · Side Kick Kneeling**, printed p.35: source opened. Side-supported kneeling, INHALE ready / EXHALE lift / INHALE horizontal hip flexion + dorsiflexion / EXHALE extension + plantar flexion / INHALE return. Verified leg height, hip rotation prevention and printed variations.
+- **034 · Swimming Prep**, printed p.36: source opened. Quadruped contralateral reach (Bird Dog), INHALE ready / EXHALE reach / INHALE keep / EXHALE return. Verified neutral spine, toes contact and separate arm/leg reach variations.
+- All four detailed source-separated entries saved to `movement-manual.html`, commit `26d64f5ec07b251b48e5ce412d023e1fe167e483`.
+- **Next inspection**: 035–050, then 056–069 and apparatus. Verified ledger: **10/186**; other summaries remain unverified.
+- **Public Pages check**: `https://sky53555.github.io/pilates-atlas/movement-manual.html` was not accessible through current web retrieval; do not mark published until independently confirmed. GitHub source update succeeded.
