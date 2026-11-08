@@ -240,3 +240,10 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - **cadillac-page-71**, Drive `1glorJAvjF5zRXCRRyEBQdHr1Y8ATIaKK`: visually opened printed p.71 Single Leg, photographs 1–8, Why, Starting Position, 8-step printed breathing/movement, printed variations; separate coaching for gaze, hip stability and bar contact. Verified.
 - **cadillac-page-72**, Drive `13l3LOV_HuDPCvisBWpufLdInW1z0-Mm9`: visually opened printed p.72 Single Leg Pump, photographs 1–8, Why, Starting Position, 8-step printed breathing/movement, printed variations; separate coaching for support and safety. Verified.
 - **Verified ledger 74/186** (previous 71 + 3; unique-ID audit still pending). Next: Cadillac Sit Up Combo, Spread Eagle Prep, Teaser; Ballet Stretch p.75 still visually inspected but incomplete source text. Public deployment not yet tested. 
+
+
+## 2026-11-08 20:55 KST — Cadillac original-photo batch (3)
+- **cadillac-page-57** Spread Eagle Prep, Drive `1Lhk49S9O5Cs7GvFkPd_y0Sp42KWqoknF`, printed p.57: actual original JPG visually opened; five photographs, Why, Starting Position, five breathing steps, Movement Point, Watch Point, printed variation reviewed. SOURCE and COACHING separately recorded. **Verified**.
+- **cadillac-page-59** Sit Up Combo, Drive `1-I__2oIKOtFHHfa6Dt9TuKhvdS7Vrv5s`, printed p.59: actual original JPG visually opened; five photographs, six breathing steps, bar grip, feet against wall, Watch Point and empty Variation heading reviewed. SOURCE and COACHING separately recorded. **Verified**.
+- **cadillac-page-60** Teaser, Drive `1vEcD_TFUQmDc1hlT_YBnJDEB6K3e16Sr`, printed p.60: actual original JPG visually opened; five photographs, four breathing steps, bar grip, legs on/off mat, Watch Point and knee-flexion variation reviewed. SOURCE and COACHING separately recorded. **Verified**.
+- **Ledger: 77/186** (previous 74 + 3, unique-ID audit pending). Next: Cadillac Roll Down p.?, Ballet Stretch p.75 source-vs-coaching retry, remaining apparatus and mat photos. Public Pages HTTP check remains pending. 
