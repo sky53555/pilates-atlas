@@ -143,3 +143,12 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - **Reformer Mid-Back Series page 1 · printed p.29**: opened JPG `1q-hP2Ncuph_xuZ14TZjvN40vDU9QojX-`. Two exercises, Straight Press Down (INHALE Ready/EXHALE Press Down/INHALE Return) and Triceps Press Down (INHALE Elbow Flexion/EXHALE Press Down). Imprinting, Leg Folding, strap grip and shoulder support distinguished. No invented printed variations.
 - **Reformer Mid-Back Series page 2 · printed p.30**: opened JPG `1ksXr4RmPOUVKHQrVq6xsKMMeh5S0V3Pg`. Side Press Down (INHALE Ready/EXHALE Press Down/INHALE Return) and Arm Circle (FORWARD INHALE Flexion/EXHALE Horizontal Abduction & Adduction; REVERSE INHALE Abduction/EXHALE Horizontal Adduction & Press Down). Original vs coaching separated; no invented muscle list.
 - All three photo-level entries committed to `movement-manual.html`. **Verified source photos: 46/186** (previous 43 + 3). **Next** Reformer Mid-Back Series pages 3–4 and Coordination; retry failures and continue remaining apparatus. Public site still not verified.
+
+
+
+## 2026-11-08 — active whole-site work
+- Whole-site scope restored in REQUIREMENTS.md; the source-photo denominator is not site completion.
+- Reformer Mid-Back p.31/p.32 and Coordination p.33 actual JPGs opened and read. p.32 explicitly describes Cadillac adaptation and must not remain misclassified as a Reformer-only protocol. Detailed SOURCE/COACHING entries added. Verified photo ledger: 49/186 (46 + 3), subject to final unique-photo recount.
+- Public root HTTP 200 confirmed directly with curl. Earlier web retrieval failure did not establish a 404.
+- exam-practice.html already contains random-2 and shuffle; earlier status report omitted this file. Audit and improve existing function rather than recreate it.
+- Original user v12 read in full: max 3 repetitions TOTAL, not 2 per side. Existing A/B drafts require correction and rejected two-hand Circle Mermaid must be removed.
