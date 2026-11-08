@@ -233,3 +233,10 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - **cadillac-page-58**: original image visually opened and checked, including printed title, photograph order, Starting Position, exact breathing labels, Movement Point, Watch Point, Variation; transcription and distinct COACHING committed to movement-manual.html. Drive file: `1yWRKd2LmQXqF2KM158u5u-tF9-kC_bYV`. Verified.
 - **cadillac-page-61**: original image visually opened and checked, including printed title, photograph order, Starting Position, exact breathing labels, Movement Point, Watch Point, Variation; transcription and distinct COACHING committed to movement-manual.html. Drive file: `1u_OoNz29GH2RBU-parXTlUKXjpWFWpuz`. Verified.
 - **Ledger total 71/186** (prior 68 + 3; unique-ID audit still pending). Next: Cadillac Push-thru with Feet pages 1–3, Sit Up Combo, Spread Eagle Prep, Teaser; Ballet Stretch p75 still requires source/visual distinction. Do not infer SOURCE for unprinted material. Public deployment not yet checked this pass.
+
+
+## 2026-11-08 20:02 KST — Original-photo verification (3)
+- **cadillac-page-70**, Drive `19-lFyng_66hyy4XCUqPhsBdEhL_GD-bj`: visually opened printed p.70 Double Leg Pump, photographs 1–8, Why, Starting Position, 8-step printed breathing/movement, Movement Point, Watch Point, Prep variation. Added SOURCE/COACHING to manual. Verified.
+- **cadillac-page-71**, Drive `1glorJAvjF5zRXCRRyEBQdHr1Y8ATIaKK`: visually opened printed p.71 Single Leg, photographs 1–8, Why, Starting Position, 8-step printed breathing/movement, printed variations; separate coaching for gaze, hip stability and bar contact. Verified.
+- **cadillac-page-72**, Drive `13l3LOV_HuDPCvisBWpufLdInW1z0-Mm9`: visually opened printed p.72 Single Leg Pump, photographs 1–8, Why, Starting Position, 8-step printed breathing/movement, printed variations; separate coaching for support and safety. Verified.
+- **Verified ledger 74/186** (previous 71 + 3; unique-ID audit still pending). Next: Cadillac Sit Up Combo, Spread Eagle Prep, Teaser; Ballet Stretch p.75 still visually inspected but incomplete source text. Public deployment not yet tested. 
