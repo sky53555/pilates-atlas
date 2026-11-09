@@ -344,3 +344,9 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - **barrel-page-100 Round Back With Twist**, Drive `1D-kM-FObiAiwmxsH1XqELWTldCGBHd8q`: actual original opened; Why, Starting Position, 9 breathing stages, Movement Point, Watch Point and Variation reviewed. Ambiguous printed phrase 'Ceiling to the Arm' preserved and flagged, not silently corrected. **Verified for legible content; ambiguous phrase unresolved**.
 - **barrel-page-101 Round Back With Twist photo sequence**, Drive `1gNytUvYr2ct-tOZsOCDBz8URufpYzJbA`: actual original opened, all nine numbered photographs visually checked against p.100 breathing stages. No standalone printed breath or cautions; linked p.100 explicitly. **Verified for photo sequence**.
 - Provisional ledger **111/186** (previous 108 + 3; unique-ID reconciliation pending). Next: remaining unverified Barrel/Reformer/Mat originals; direct Curl Up vs Roll Up comparison; public Pages final QA. Do not count ambiguous source phrases as resolved.
+
+
+## 2026-11-09 11:58 KST — Barrel Lean original images p.102–103
+- **barrel-page-102 Lean instructions**, original Drive `16Pz_8glqXmaO-YHBWbvV5NHh64JCCx2_`: opened actual JPG; printed Why, Starting Position, 9-step breathing, Movement Point, five Watch Points and Reformer (with Box) Variation checked. SOURCE vs COACHING separately stored in movement-manual.html. **Verified**.
+- **barrel-page-103 Lean sequence**, original Drive `1ZYw_6E6Ecdhk9SCM32tJ4ZAhfIqmdxZt`: opened actual JPG; nine numbered photographs checked against p.102 sequence. Red handwriting excluded from printed SOURCE. No independent breathing/Watch Point printed on p.103. **Verified for photo sequence**.
+- Provisional ledger **113/186** (previous 111 + 2; original-ID reconciliation pending). Next: Barrel Tree Prep p.104–105, other unverified originals; Curl Up/Roll Up direct comparison and public Pages QA outstanding.
