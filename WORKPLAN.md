@@ -760,7 +760,7 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 
 ## 2026-11-12 12:03 KST — source inventory reconciliation (metadata only)
 - This pass compared Drive folder file IDs against existing WORKPLAN text; **no image was visually inspected**, and metadata presence does not establish verification.
-- Mat/Small Props: 69 files; Apparatus: 100 files; unique IDs: 169.
+- Mat/Small Props: 69 files; Apparatus: first 100 files returned (folder listing truncated); unique IDs observed in this pass: 169; **not a complete inventory**.
 - Mat 016–022 queued for actual image inspection; status remains **NOT VERIFIED IN THIS PASS**.
 - Pending image inspection: `1bcks2GpSni9tZqCpaL5oq-z56tnV13Dn` — 022_Roll Over (롤 오버).jpg; historical log ID mention: no.
 - Pending image inspection: `1CintHop4f7yZUrazwXkEyFGbiv7NVlII` — 021_Shoulder Bridge (숄더 브리지).jpg; historical log ID mention: no.
