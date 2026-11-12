@@ -756,3 +756,17 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - **015 Crisscross · printed p.17 · Drive `1-JqweYhc0AjrJpHG7CCdaQjgdK4yZdsj`**: original JPG displayed and five phases inspected. SOURCE: Imprinting, both legs Leg Folding, cervical/upper thoracic flexion, hands behind head; INHALE Ready → EXHALE rotation and single-leg extension → INHALE start → EXHALE other side → INHALE return. Printed movement points, four watch points, Arc Barrel and **'다리뻗고 실시하기'** variation confirmed. **Corrected pre-existing HTML mistranscription** that said to omit leg extension. PHOTO: feet airborne and alternating leg extension. COACHING separately recorded. Red handwriting and exact gaze/rotation angles not certified.
 - Updated `movement-manual.html` commit `2962c1f5f82ee3b6189d56ed73e0777adcaccb38`. Two distinct originals inspected. Historical **142/186 remains provisional**; no increment before unique-ID reconciliation. No image retrieval failure; connector display raised a transient error after original images were mounted, resolved by opening local mounted JPGs.
 - **Next** Mat 016–022 (verify actual photos, especially Roll Over 022 versus 067), then missing apparatus IDs; reconcile unique Drive IDs and check public Pages HTTP before completion claim.
+
+
+## 2026-11-12 12:03 KST — source inventory reconciliation (metadata only)
+- This pass compared Drive folder file IDs against existing WORKPLAN text; **no image was visually inspected**, and metadata presence does not establish verification.
+- Mat/Small Props: 69 files; Apparatus: 100 files; unique IDs: 169.
+- Mat 016–022 queued for actual image inspection; status remains **NOT VERIFIED IN THIS PASS**.
+- Pending image inspection: `1bcks2GpSni9tZqCpaL5oq-z56tnV13Dn` — 022_Roll Over (롤 오버).jpg; historical log ID mention: no.
+- Pending image inspection: `1CintHop4f7yZUrazwXkEyFGbiv7NVlII` — 021_Shoulder Bridge (숄더 브리지).jpg; historical log ID mention: no.
+- Pending image inspection: `1onohS9WadR3cGvnjLh5-PyyPn5rMrrE7` — 020_Teaser (티저).jpg; historical log ID mention: no.
+- Pending image inspection: `1LlXC9SrnxpLUsFQqKefraUwjAOs5ENb0` — 019_Teaser Prep (티저 준비 동작).jpg; historical log ID mention: no.
+- Pending image inspection: `1atTLtc94l_vKDXJKMNxJk83NhNsIbaRI` — 018_Roll Up (롤업).jpg; historical log ID mention: yes.
+- Pending image inspection: `1yftDMENnvlQnL9EAb0KdVN_RUGa5-GHw` — 017_Double Leg Lower and Lift (더블 레그 로워 앤 리프트).jpg; historical log ID mention: no.
+- Pending image inspection: `1RhCfbED50sPW-vUyuRJGLg_He0vclxCB` — 016_Double Leg Stretch (더블 레그 스트레치).jpg; historical log ID mention: no.
+- No image-fetch error occurred in this metadata-only pass. Next: open original JPEGs, transcribe only legible source text, compare against manual, commit detailed corrections, and check live Pages.
