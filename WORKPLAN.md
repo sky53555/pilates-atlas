@@ -770,3 +770,10 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - Pending image inspection: `1yftDMENnvlQnL9EAb0KdVN_RUGa5-GHw` — 017_Double Leg Lower and Lift (더블 레그 로워 앤 리프트).jpg; historical log ID mention: no.
 - Pending image inspection: `1RhCfbED50sPW-vUyuRJGLg_He0vclxCB` — 016_Double Leg Stretch (더블 레그 스트레치).jpg; historical log ID mention: no.
 - No image-fetch error occurred in this metadata-only pass. Next: open original JPEGs, transcribe only legible source text, compare against manual, commit detailed corrections, and check live Pages.
+
+
+## 2026-11-12 13:00 KST — Mat 016–017 source-photo inspection
+- **016 Double Leg Stretch**, original Drive ID `1RhCfbED50sPW-vUyuRJGLg_He0vclxCB`, printed p.18: actual JPG opened. Three pictured positions; INHALE Ready → EXHALE Reach Leg & Arm → INHALE Starting Position. Imprinting with head/upper-thoracic flexion, both legs off mat; arms extend overhead and legs diagonally. Original Why, Starting Position, Movement Point, Watch Point, Variation recorded in manual; handwritten notes only partly legible. **Status: photo inspected, printed content analyzed, verified with handwritten uncertainty flagged**.
+- **017 Double Leg Low & Lift**, original Drive ID `1yftDMENnvlQnL9EAb0KdVN_RUGa5-GHw`, printed p.19: actual JPG opened. Three positions, trunk/head resting on mat and both straight legs raised/lowered without foot contact. INHALE Hip Flexion → EXHALE Hip Extension → INHALE Starting Position. Source Arc Barrel and bent-knee variations, Imprinting limit and avoid excessive arm effort recorded. **Status: photo inspected, printed content analyzed, verified with handwritten uncertainty flagged**.
+- Added separate SOURCE, PHOTO OBSERVATION, HANDWRITTEN, COACHING and UNVERIFIED sections to `movement-manual.html`; do not claim unclear annotations, exact joint angles or gaze targets as verified.
+- **Next:** Mat 019–022 actual image reading, then reconcile unique Drive IDs against all existing verified entries; do not increment the legacy **142/186 provisional** tally without unique-ID audit. Public Pages HTTP check still required.
