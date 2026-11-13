@@ -911,3 +911,12 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - **034** Lean sequence printed p.103, Drive `1ZYw_6E6Ecdhk9SCM32tJ4ZAhfIqmdxZt`: actual photo opened, nine numbered frames. Companion sequence, **not separate exercise**; confirms overhead pole, rotation and diagonal lean with feet braced on ladder.
 - SOURCE / PHOTO / COACHING / UNVERIFIED distinguished in movement-manual.html. **Unverified:** precise gaze, quantified hip angles/foot loading, red handwriting. Printed instruction and pose sequence inspected; handwritten content not certified. Do not double-count these as four distinct exercises.
 - **Next:** Barrel 035–039, then global unique-photo-ID audit, Curl Up vs Roll Up comparison, and public Pages HTTP verification. Global 186-page verified count still provisional.
+
+
+## 2026-11-13 12:00 KST — Barrel 035–039 original image review
+- 035 Tree Prep instruction p.104, Drive 1Joqg1fulSvbOV5wFWRNQf7YQsM54FhQx: JPEG visually opened. Printed starting posture, breathing, 3 knee-extension repetitions, hand-walk roll-down/roll-up, muscles, watch points, variation checked. **Printed/photo verified; quantitative gaze/hip/foot loading unverified.**
+- 036 Tree Prep sequence p.105, Drive 1Hap-fSx3OOLLlhJbdPtoCsReHLHZYnAN: JPEG opened, eight numbered poses checked. Companion sequence only, not another exercise. **Photo verified; exact joint angles unverified.**
+- 037 Side Bend p.106, Drive 1EyyW6J7n4f_dmdKrQvx2bIq1c3TVwAYG: JPEG opened; breathing INHALE Ready → EXHALE One Long Line → INHALE Return; lateral flexion and antirotation confirmed. Small print and red handwriting require higher-resolution reread. **Partial, retry small printed Watch/Variation and handwriting.**
+- 038 Swan p.107, Drive 1HnuYCjS-L_Nq7_3DPlS3HfVknTnZhJB4: JPEG opened, printed breath and movement, five photographs, variation checked; small Watch text unresolved. **Partial, retry Watch.**
+- 039 Spinal Extension p.108, Drive 18QrgAfX1z3F-nsFQEQRMO71XLqjZb3EB: JPEG opened, three photos, breathing and muscle categories checked; small Watch/Variation unresolved. **Partial, retry Watch/Variation.**
+- Manual appended with SOURCE/PHOTO/COACHING/UNVERIFIED sections; do not mark partial items fully verified. Next: zoom and retry 037–039 fine print; then next unreviewed Barrel pages, unique-ID audit, Curl Up/Roll Up, Pages check. Historical 142/186 is provisional.
