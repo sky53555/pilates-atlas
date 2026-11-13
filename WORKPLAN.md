@@ -986,3 +986,75 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - **027 Slow Swan** · p.95 · Drive `16kpNp2E_8YIOH9Aufp1uwq8bnjjIOA5Q`: 실제 JPEG 열람. SOURCE 척추/고관절 신전근 및 견갑 안정화, 호흡 **INHALE Ready → EXHALE Rock Forward → INHALE Return**, TVA/Pelvic Floor, Spine Extensor, Hip Lateral Rotation/Extension, Scapula Stabilizer, 손목 꺾임·팔꿈치 rocking 방지, Variation 페달 분리. PHOTO 3단계, 체어 위 복부/골반 지지·다리 공중, 페달을 누르며 앞쪽으로 Rock하고 복귀. COACHING 별도. 시작자세 고관절/무릎 관련 인쇄 표현, 필기·정확 시선·압력·스프링·각도 미확인. **STATUS 인쇄/사진 검증, 일부 문구 미확인.**
 - `movement-manual.html` 반영 커밋 `59990e86dcbbf50e108c32f4ccad2bbace577485`. 두 장을 각 고유 ID 1개로 기록하며 전체 186장 완료로 계산하지 않음.
 - **NEXT:** 전체 Mat/Small Props·Apparatus 고유 ID 인벤토리와 WORKPLAN 사진별 완료/미확인/실패 목록 대조; 누락된 원본부터 직접 열어 재검증, 실패 항목 재시도. 공개 Pages 최종 검증 보류.
+
+
+## 2026-11-14 01:00 KST — 186 unique Drive-ID inventory reconciliation
+- Drive folder direct listings: Apparatus **117** JPEGs; Mat/Small Props **69** JPEGs; **186 distinct file IDs** (count of images, not necessarily 186 distinct exercises). Compared each ID literally with the current WORKPLAN text. **124 IDs appear in WORKPLAN; 62 IDs have no ID-level ledger reference.** This is a *documentation coverage* check, not proof that the other 124 have complete visual verification; no new image was certified by this audit.
+- All 62 absent IDs below are **PENDING ORIGINAL VISUAL REVIEW**, not verified. Prioritize these and retry any earlier partial/failed records. If an image is unreadable, log failure and move to next ID. Keep printed source, observed photo, instructor coaching, and unresolved details separate.
+
+| Folder | Original Drive filename | Unique Drive ID | Status |
+|---|---|---|---|
+| Apparatus | Reformer - Reach and Bend - Part 2 (리포머 리치 앤 벤드 2).jpg | `18RALGfNyuaUfdf-U8oABRgFOycESLyUV` | PENDING — not certified |
+| Apparatus | Reformer - Reach and Bend - Instructions (리포머 리치 앤 벤드 설명).jpg | `12iPiSzu38QNVPqYzQLb9MS3dITt0MsSx` | PENDING — not certified |
+| Apparatus | Reformer - Reach and Bend - Part 1 (리포머 리치 앤 벤드 1).jpg | `1e1vf__coCEBzjRXYLcMIPAsNhO6Sb2fi` | PENDING — not certified |
+| Apparatus | Reformer - Mermaid (리포머 머메이드).jpg | `1in7IwKvB6TMe3Hq7-Yvjo1fWJhDOEGWN` | PENDING — not certified |
+| Apparatus | Reference - Handwritten Pilates Study Notes (필라테스 필기 정리).jpg | `1Uw9WKexsrfNc8WqqZy0jslhVfnXXBXxc` | PENDING — not certified |
+| Apparatus | Reformer - Back Rowing Series - Round Back (리포머 백 로잉 라운드 백).jpg | `1OAAWMu-CT33IrKV_0F7eWhvARHkpD0Lj` | PENDING — not certified |
+| Apparatus | Reformer - Prone Arm Series - Arms (리포머 프론 암 시리즈 팔).jpg | `1WCTS2w_ZoJS55gyLzhNaYe0UFO3_YpNC` | PENDING — not certified |
+| Apparatus | Reformer - Prone Arm Series - Straight Backward and Sideways (리포머 프론 암 시리즈).jpg | `1-bHtOjepDSLLyZGHEK8rFYRxrcJhSqUQ` | PENDING — not certified |
+| Apparatus | Reformer - Single Leg Footwork - Combination (리포머 싱글 레그 풋워크 콤비네이션).jpg | `1tBo5MCFZ7pHQ7Kx5ECTF8Fv0uZq8ThHU` | PENDING — not certified |
+| Apparatus | Reformer - Side Split (리포머 사이드 스플릿).jpg | `1Ow1WcmKrnWArBH4Qts58BiyxCn82xxMY` | PENDING — not certified |
+| Apparatus | Reformer - Single Thigh Stretch (리포머 싱글 타이 스트레치).jpg | `1_Ftr6sE2xklFh11KTnuXu3sowJGBhnp4` | PENDING — not certified |
+| Apparatus | Reformer - Turtle (리포머 터틀).jpg | `196l9megbROPIP5FdaSfV1T4ZAvQTTK5b` | PENDING — not certified |
+| Apparatus | Reformer - Back Rowing Series - Round Back and Flat Back (리포머 백 로잉 라운드 백 및 플랫 백).jpg | `1acLUkjV3jEOkDFR8ehhdvavx03t0Q0rB` | PENDING — not certified |
+| Apparatus | Cadillac - Lat Press (캐딜락 랫 프레스).jpg | `1ywV7XnAb0DXKi8bxy9rLN9-4UvZ5HW7B` | PENDING — not certified |
+| Apparatus | Cadillac - Monkey (캐딜락 몽키).jpg | `1Tqyz_UqD-oyS03iv2f22QZow91Kb62A3` | PENDING — not certified |
+| Apparatus | Cadillac - Guillotine (캐딜락 길로틴).jpg | `1Go69T7ZiEQKYeNXl431LNU46_gkIqkS6` | PENDING — not certified |
+| Apparatus | Cadillac - Leg Press (캐딜락 레그 프레스).jpg | `1QX0cR0IoTyOY27qU42hJ6OLSc44uVDKX` | PENDING — not certified |
+| Apparatus | 003_Cadillac - Push-thru with Feet - Double Leg Pump (푸시스루 위드 피트 더블 레그 펌프).jpg | `1IAqiER08PR9BT71QaTVp1mweVtyOXm9c` | PENDING — not certified |
+| Apparatus | 004_Cadillac - Push-thru with Feet - Single Leg (푸시스루 위드 피트 싱글 레그).jpg | `1FWjjC_TSrz5BHzWIkdU93UuVargCdQeL` | PENDING — not certified |
+| Apparatus | Reference - Chair Barrel Table of Contents (체어 배럴 목차).jpg | `1ebgIRAy6GiSo5OV0s4Xsj4V1OWp-65mU` | PENDING — not certified |
+| Apparatus | Reference - Reformer Cadillac Table of Contents (리포머 캐딜락 목차).jpg | `1xd7z_vUAXLKkpHan2tU6Jh3UNy7mLUKV` | PENDING — not certified |
+| Apparatus | Reference - Apparatus Anatomy Cadillac Barrel Chair (기구 구조 및 명칭).jpg | `1Qu3FOqT7C9ebtHCvSKzygCsWxOpSVJJD` | PENDING — not certified |
+| Mat/Small Props | 069_Circle - Double Leg Stretch Adductor Press Hamstring Curl and Double Leg Extension (서클 더블 레그 스트레치 내전근 프레스 햄스트링 컬 더블 레그 익스텐션).jpg | `1VWR4lXFS3pvT-OGea4ykRTlLdQQNKLTi` | PENDING — not certified |
+| Mat/Small Props | 068_Side Leg Series - Knee Open (사이드 레그 시리즈 무릎 열기).jpg | `1FaWpK71YKaAVTNyxOmNkaeuQ8ZMsL0cQ` | PENDING — not certified |
+| Mat/Small Props | 067_Roll Over - Additional Mat Page (롤 오버 추가 매트 페이지).jpg | `1yrocNrXtPZBWM6FN5H3Nynrh0fIfN8Ir` | PENDING — not certified |
+| Mat/Small Props | 063_Gym Ball - Scapula Movement (짐볼 견갑골 움직임).jpg | `1ig7MtRUuiV2RJmmh6GXA6eI9KI5Jm_fl` | PENDING — not certified |
+| Mat/Small Props | 062_Gym Ball - Double Leg Lower and Lift and Back Extension (짐볼 양다리 내리기 들기와 등 신전).jpg | `1QQWM7w8wbnLf-sogmoRSV8zPPPRUEBj-` | PENDING — not certified |
+| Mat/Small Props | 061_Gym Ball - Bridge and Single Leg Lift (짐볼 브리지와 한 다리 들기).jpg | `1ndW07VrrE9bucKslHqDVfneWJAeHQlvS` | PENDING — not certified |
+| Mat/Small Props | 060_Gym Ball - Introduction (짐볼 소개).jpg | `1ux7O9beTsa5ufxGCkRmJ1l3iyoE5DmBd` | PENDING — not certified |
+| Mat/Small Props | 059_Arc Barrel - Exercises (아크 배럴 운동).jpg | `19AS_xzv0nHt2Yb9yKG_go0WriLbgqmMk` | PENDING — not certified |
+| Mat/Small Props | 058_Arc Barrel - Spine Stretch and Roll Down (아크 배럴 척추 스트레치와 롤 다운).jpg | `1WOGmEj5KD1NndFhnuCZD-zWfv_9lW-vy` | PENDING — not certified |
+| Mat/Small Props | 057_Arc Barrel - Scissors (아크 배럴 시저스).jpg | `1XV7vLgi3sfnctDofdKCqOCv2fac-ev81` | PENDING — not certified |
+| Mat/Small Props | 056_Arc Barrel - Introduction (아크 배럴 소개).jpg | `1MlHbdG19gM1E5RZEnmuYMgjAi1BHvTo3` | PENDING — not certified |
+| Mat/Small Props | 055_Plank (플랭크).jpg | `1CKhH0QSjuYHa_ZbIRi8PiYJ0qQ7tmfh1` | PENDING — not certified |
+| Mat/Small Props | 054_Push Up - Roll Down and Hand Walking (푸시업 롤 다운과 손 걷기).jpg | `1eRyerdRAwd9wkNzU7KS3Muk1jm71oOUb` | PENDING — not certified |
+| Mat/Small Props | 053_Push Up (푸시업).jpg | `1ve3NLdTa4THfeCCp3rlqDINV77YBpWgv` | PENDING — not certified |
+| Mat/Small Props | 052_Leg Pull Up (레그 풀 업).jpg | `1UZL2sZqe6K1K2UYp8tSY9o0lpsOe2gp-` | PENDING — not certified |
+| Mat/Small Props | 051_Leg Pull Front (레그 풀 프런트).jpg | `1VNTimSWUpbXCAc0NHdlwbimm6gb4kLDX` | PENDING — not certified |
+| Mat/Small Props | 050_Leg Pull Front Prep (레그 풀 프런트 준비 동작).jpg | `1IoA57cwKXzmvwKnIJ8QS-cMver-IDoSo` | PENDING — not certified |
+| Mat/Small Props | 049_Heel Squeeze (힐 스퀴즈).jpg | `1Eh8iZQxYefmZyHvf15Eh4C8LnUwoM1SS` | PENDING — not certified |
+| Mat/Small Props | 048_Hamstring Curl (햄스트링 컬).jpg | `1CJsybEYnU7KYpkZV12uBzXMobGJ6w3nZ` | PENDING — not certified |
+| Mat/Small Props | 047_Double Leg Extension (더블 레그 익스텐션).jpg | `1LEVjHIZshTe8yg6pBHsxyoFm_2wuByP-` | PENDING — not certified |
+| Mat/Small Props | 046_Single Leg Extension (싱글 레그 익스텐션).jpg | `1ACooddJcry8eGr6VEZb6O8-RVXxiPS4H` | PENDING — not certified |
+| Mat/Small Props | 045_Spinal Release (척추 릴리즈).jpg | `1-mzj1NbPmXvqc-6byE2AjIrEgURG74km` | PENDING — not certified |
+| Mat/Small Props | 044_Slow Swan (슬로우 스완).jpg | `1duaEeUqYl4RhFwof6CTlXdBLhEnX-x_G` | PENDING — not certified |
+| Mat/Small Props | 043_Breast Stroke (브레스트 스트로크).jpg | `1oYyT2pIWX2yq4cZLMtQ_DrDX6eonTB5I` | PENDING — not certified |
+| Mat/Small Props | 042_Breast Stroke Prep - Hands By Head (브레스트 스트로크 준비 손 머리 옆).jpg | `182mlEfsDQ9yY7aOEMPy9eU_mkituv9BR` | PENDING — not certified |
+| Mat/Small Props | 041_Breast Stroke Prep - Hands By Hip (브레스트 스트로크 준비 손 골반 옆).jpg | `1vubQz9VQADudHYu_JV9rxzEUkiK57qEE` | PENDING — not certified |
+| Mat/Small Props | 040_Breast Stroke Prep - Hands By Shoulder (브레스트 스트로크 준비 손 어깨 옆).jpg | `1yGL3o0uRksA4nvW1jgOU-ib7OngaRw8a` | PENDING — not certified |
+| Mat/Small Props | 039_Side Leg Series - Side Kick Prep (사이드 킥 준비 동작).jpg | `11vz7ogZnU_j72OP-ZxE_C_ISMU_1DZJ3` | PENDING — not certified |
+| Mat/Small Props | 038_Side Leg Series - Knee Open (사이드 레그 시리즈 무릎 열기).jpg | `1cuUd6ni8UojO0pL1GOAx5OsJ_eGeFkCY` | PENDING — not certified |
+| Mat/Small Props | 037_Side Leg Series - Adduction (사이드 레그 시리즈 내전).jpg | `13yCCMqL6E9neGjkCUHzFZ_KKTB49boCb` | PENDING — not certified |
+| Mat/Small Props | 036_Side Leg Series - Abduction (사이드 레그 시리즈 외전).jpg | `1ENJEh0S3wW4sxq_Zyhog9SZlxqoUIOg4` | PENDING — not certified |
+| Mat/Small Props | 035_Swimming (스위밍).jpg | `1ZFlH0hiKmHqZmnJSg8O7_7qKTzhUzG3Z` | PENDING — not certified |
+| Mat/Small Props | 034_Swimming Prep (스위밍 준비 동작).jpg | `13xznRWmqC_MijYh6CeNyLwa7goQLSUjf` | PENDING — not certified |
+| Mat/Small Props | 033_Side Kick Kneeling (사이드 킥 닐링).jpg | `1c0XF2ZTh1pLumJDGcgy6YVPgKYF1Io6k` | PENDING — not certified |
+| Mat/Small Props | 032_Side Bend Mermaid Prep (사이드 벤드 머메이드 준비).jpg | `1JJQBztE0MkTwBW8Pm4sh2D2lQZNKEgcE` | PENDING — not certified |
+| Mat/Small Props | 031_Mermaid with Rotation (회전을 동반한 머메이드).jpg | `1dOeHZ5XQ3nWrG6rP_GjAXvRC41vbh64R` | PENDING — not certified |
+| Mat/Small Props | 066_Circle - Hamstring Adductor and IT Band Stretch (서클 햄스트링 내전근과 장경인대 스트레칭).jpg | `1cyh3dLn2ffjdmztIgT6HR1lVBYGw38jW` | PENDING — not certified |
+| Mat/Small Props | 065_Circle - Double Leg Stretch Adductor Press Hamstring Curl and Double Leg Extension (서클 더블 레그 스트레치 내전근 프레스 햄스트링 컬과 더블 레그 익스텐션).jpg | `1hxsm8blmY3mlVZyRv3bkCymkez0w2QyY` | PENDING — not certified |
+| Mat/Small Props | 064_Circle - Lat Press Mermaid Arm Press and Hundred (서클 광배근 프레스 머메이드 암 프레스와 헌드레드).jpg | `1VXiZUPlFzWaGeBQJRfuVM4QHXGBPwbnP` | PENDING — not certified |
+| Mat/Small Props | 011_Hundred (헌드레드).jpg | `1w64ZzzfNHGweSz7HvAv2kQygEgOyvUra` | PENDING — not certified |
+
+- NEXT: review absent IDs from this table in sequence, then audit 124 referenced IDs for actual photo-read evidence and partial statuses. Curl Up vs Roll Up already compared on 2026-11-13, but red annotations remain unresolved. Final Pages check only after complete source review.
