@@ -1622,3 +1622,9 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - PHOTO: five lateral frames show seated start, backward lean, arms overhead, forward spinal flexion, seated return. Feet contact ladder rungs, not pedal/floor; knees remain bent. Gaze appears to follow head position but no printed gaze cue. COACHING on controlled eccentric abdominal work, scapular stability, rib flare and foot grip kept separate.
 - **UNVERIFIED / RETRY:** red handwriting below photos, exact foot pressure/rung, hip angles and gaze target; do not infer measured muscle activation from images. **PHOTO INSPECTED / PARTIAL — NOT FULLY VERIFIED.** Added dedicated source/photo/coaching/unverified section to `movement-manual.html`.
 - **NEXT:** Barrel 030 onward, revisit unresolved annotations, reconcile 186 unique originals, and check public Pages HTTP before final completion. Fully verified count unchanged.
+
+
+## 2026-11-18 04:03 KST — Barrel 030 original photo inspection
+- **030 Barrel Flat Back**, printed **p.99**, Drive `1Ww94wKVfdIC-ngCsslyujLfJ38sL069Y`: actual JPG opened, printed Why / Starting Position / Breathing / Movement Point / Watch Point / Variation and four posture photographs inspected. SOURCE, PHOTO, COACHING, UNVERIFIED separated in `movement-manual.html`. **Status: photo inspected / detailed analysis / PARTIAL**, not final verified: foot pressure, exact hip angle, pole load and precise gaze unconfirmable.
+- Distinction: **029 Round Back** is spinal flexion; **030 Flat Back** preserves neutral spinal alignment with hip-driven tilt. Source labels “Hip Extension: Hip Flexor”; retained verbatim and separated from instructor biomechanical interpretation.
+- **Next:** Barrel 031 Round Back With Twist, 032 sequence, 033–034 Lean, then 035 onward. Retry any image fetch errors without marking them verified. Full 186-page final QC and public deployment check remain outstanding.
