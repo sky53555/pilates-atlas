@@ -1635,3 +1635,9 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - **Barrel 032 · Round Back With Twist — Sequence**, printed p.101: opened actual JPG; nine numbered images checked against p.100. Confirmed forward pole lowering with rounded-back recline, overhead pole raise, two directions of rotation, forward flexion and return. Foot support on Ladder visible; exact pressure, gaze and angles not established. This is a continuation page, **not an independent exercise**. Status **photo inspected / analyzed / partial verification**.
 - Both source-linked pages recorded in `movement-manual.html`; do **not** increment fully verified total for these two pages.
 - **Next:** Barrel 033 Lean — Instructions and subsequent Barrel pages. Retry unclear handwriting and source wording; continue other photos if a download fails. Public deployment final QC remains outstanding.
+
+## 2026-11-18 06:00 KST — Barrel 033–034 Lean 원본 직접 검수
+- **033 Barrel Lean — Instructions**, 원본 p.102, Drive `16Pz_8glqXmaO-YHBWbvV5NHh64JCCx2_`: JPG 직접 열어 Why / Starting Position / 9단계 호흡 / Movement Point / Watch Point / Variation 확인. **PHOTO INSPECTED / PARTIAL**. 원본의 중립 척추·골반, Ladder 발 지지, Pole 오버헤드, 회전→Lean→수직→중앙 복귀 확인. 정확한 시선·발 압력·고관절 각도는 원본으로 확정 불가.
+- **034 Barrel Lean — Sequence**, 원본 p.103, Drive `1ZYw_6E6Ecdhk9SCM32tJ4ZAhfIqmdxZt`: JPG 9컷 직접 열어 p.102 호흡 9단계와 비교. 좌·우 회전 및 기울기, Ladder에 닿는 발, 머리 위 Pole 확인. **033의 연속 사진 페이지이며 독립 동작 아님. PHOTO INSPECTED / PARTIAL**.
+- SOURCE / PHOTO / COACHING / UNVERIFIED를 `movement-manual.html`에 별도 기록. **RETRY:** p.103 빨간 손글씨(특히 ③·④), 정확한 시선·Ladder 단수·발 압력·기울기 각도; 미확인 항목은 검증 완료로 세지 않음.
+- **NEXT:** Barrel 035 Tree Prep Instructions / 036 Sequence, 이어 037 Side Bend. 186장 고유 원본 대조 및 공개 Pages 최종 검수는 아직 미완료.
