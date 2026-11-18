@@ -1751,3 +1751,11 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - **p.37** · Drive `1RUJDFzInYCmXywuZS5cMSYW-r3rtZamd`: original JPG opened and inspected. Salute (3 photos), printed inhale/exhale, movement points, watch points, variation. **PHOTO INSPECTED / PARTIAL**, not verified.
 - **RETRY:** ambiguous handwriting, gaze, foot pressure/contact, spring setting, p.37 final variation wording, photo-by-photo breath mapping. Keep both pages excluded from fully verified tally until resolved.
 - **NEXT:** Reformer Back Rowing Prep Flat/Round Back originals; revisit unresolved notes and public HTTP deployment check.
+
+## 2026-11-19 01:02 KST — Chair 017 AB Press Sitting 원본 p.85
+- Drive JPG `1qaL9O0KE6XB4gMjagmlX_IgmgDwCjGW5` 직접 열람. 인쇄 제목, Why, Starting Position, 3단계 호흡, Movement Point, Watch Point, 5개 Variation 및 3컷 대조. **PHOTO INSPECTED / PARTIAL, NOT VERIFIED.**
+- SOURCE: 중립 척추·골반으로 체어 앞 바닥에 앉아 다리 길게 뻗고 양손 페달, 팔꿈치 바깥쪽 약간 굽힘. INHALE Ready → EXHALE Spinal Flexion Forward → INHALE Return. TVA/Pelvic Floor, Rectus Abdominis/Oblique, Lat/scapular stabilizer. 경추 과굴곡·팔로 페달 누르기·골반 후방경사 주의. Variation: 척추 굴곡 제외, 무릎 굽힘, 페달 분리, Pulse, Circle.
+- PHOTO: 발뒤꿈치 바닥 접촉·발끝 위쪽, 양손 페달 접촉, 1/3컷 세운 몸통, 2컷 몸통 굴곡과 아래로 향한 머리. 고관절 굴곡, 정확한 각도 불명. Chair 021 서서 하는 AB Press와 구별.
+- COACHING: 복부 조절·견갑 안정·목 긴장 방지, 무릎 굽힘 변형 등은 원본과 구분하여 기록. `movement-manual.html` 반영.
+- **RETRY:** 붉은 손글씨의 완전 판독, 발뒤꿈치 압력, 스프링 저항, 분절 범위, 팔꿈치 각도, 사진-호흡 정확 대응. 미확인 내용은 검증완료에 포함하지 않음.
+- Back Rowing Prep Round Back p.34 및 Flat Back p.35 원본도 다시 열어 기존 SOURCE/PHOTO 기록과 대조함. 기존 기록과 충돌하는 확정 사항은 없으며 두 동작을 구별하여 유지. 다음 실행에서는 미완료 Chair 016/015 등으로 이어가고 불확실 항목 재시도. 전체 186장 최종 검수 및 공개 Pages HTTP 검증 미완료.
