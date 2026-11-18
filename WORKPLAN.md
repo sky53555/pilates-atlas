@@ -1759,3 +1759,9 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - COACHING: 복부 조절·견갑 안정·목 긴장 방지, 무릎 굽힘 변형 등은 원본과 구분하여 기록. `movement-manual.html` 반영.
 - **RETRY:** 붉은 손글씨의 완전 판독, 발뒤꿈치 압력, 스프링 저항, 분절 범위, 팔꿈치 각도, 사진-호흡 정확 대응. 미확인 내용은 검증완료에 포함하지 않음.
 - Back Rowing Prep Round Back p.34 및 Flat Back p.35 원본도 다시 열어 기존 SOURCE/PHOTO 기록과 대조함. 기존 기록과 충돌하는 확정 사항은 없으며 두 동작을 구별하여 유지. 다음 실행에서는 미완료 Chair 016/015 등으로 이어가고 불확실 항목 재시도. 전체 186장 최종 검수 및 공개 Pages HTTP 검증 미완료.
+
+## 2026-11-19 01:57 KST — Chair 016 Lying Frog Leg Press 원본 p.84
+- Drive JPG `1aY8guYPZQrdQ37Nwdjg5cpUZKfLo7ayh` 실제 열람, 인쇄 p.84의 3컷 및 Why/Starting Position/Breathing/Movement Point/Watch Point 확인. **PHOTO INSPECTED / PARTIAL, NOT VERIFIED.**
+- SOURCE: supine neutral pelvis/spine, legs externally rotated, heels together, toes on pedal, arms long at sides. INHALE Ready → EXHALE Hip Lateral Rotation & Push The Pedal → INHALE Return. TVA, pelvic floor, hip lateral rotator; prevent knee/ankle substitution, pelvic movement, lumbar hyperextension. No printed Variation section.
+- PHOTO: 3 sequential positions; toes/forefeet contact pedal, heels together; knees extend on press and bend on return; back/pelvis on mat. COACHING separately documented in movement-manual.html.
+- RETRY: exact red handwriting, toe pressure, spring setting, precise angles and gaze, frame-breath correspondence. Do not count as fully verified. **NEXT:** Chair 015 then 014 and remaining unverified images; Curl Up/Roll Up final cross-check and public HTTP QA remain outstanding.
