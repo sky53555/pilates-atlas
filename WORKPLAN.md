@@ -1738,3 +1738,9 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - SOURCE: 체어 끝에 살짝 걸터앉고 양손으로 체어 끝을 잡으며, 양발 모아 뒤꿈치 들고 상체 C커브. 호흡 INHALE Ready → EXHALE Pull Up → INHALE Return. TVA, pelvic floor, rectus abdominis/oblique, scapula stabilizer. 스프링 처음 무겁게 시작 후 조절, 손으로 끌지 말고 밀어내기, 시선 고정 및 경추 과굴곡 방지, 반동 없이 복부 조절. Variation 페달 분리.
 - PHOTO: 두 컷 모두 손은 체어 상단, 발 앞부분은 페달에 닿고 뒤꿈치는 들림; 두 번째 컷에서 골반 상승·무릎 신전 증가·페달 상승. 발은 바닥이 아니라 페달 접촉. COACHING 별도 구분해 `movement-manual.html`에 기록.
 - RETRY: 정확한 시선 목표, 발 압력 분포, 스프링 수치, 고관절 각도, 사진-호흡 정밀 매칭. 다음은 Chair 017 등 미완료 원본, Curl Up/Roll Up 직접 대조. 186장 전체 검증 및 공개 Pages 최종 QA 미완료.
+
+## 2026-11-18 23:01 KST — Reformer Chest Expansion 원본 JPG 확인
+- Drive `1oYdKa5ItFdB1r8YS0YXwiPaLuV4PCxhV`, 인쇄 p.38, JPG를 실제 열어 5컷과 본문 확인. **PHOTO INSPECTED / PARTIAL — NOT FULLY VERIFIED**.
+- SOURCE: WHY 움직임을 통한 견갑대 및 골반 안정화, Shoulder Extensor 강화, 중립 척추 인지. START 캐리지 위 무릎 앉음, 무릎·다리 골반너비, 양손 스트랩, 팔 몸통 옆. BREATH INHALE Ready → EXHALE Shoulder Extension → INHALE Turn One's Head Sideways → EXHALE Look a Head → INHALE Return to Starting Position. MOVEMENT TVA/Pelvic Floor, Neutral Spine, Shoulder Extensor, Scapula Stabilizer. WATCH 골반 Rocking/허리 굴곡 회피, 캐리지 흔들림 회피, 목 회전 시 어깨 고정, 견갑 안정. VARIATION Chest Expansion With Pulse.
+- PHOTO: 5컷은 옆모습·뒷모습·고개 돌림·팔 뒤로 뻗음·복귀를 보여줌. 양 무릎/정강이는 캐리지에 접촉, 발은 뒤쪽으로 놓여 있으나 발등 압력은 판독 불가. 손은 스트랩 핸들을 잡고 서서히 몸통 뒤로 당김. 인쇄된 호흡의 고개 회전 방향은 특정되지 않음.
+- COACHING 별도: 갈비뼈 과신전 없이 견갑대 안정, 목 회전은 편안한 범위에서 시행, 손목 중립 유지. UNVERIFIED/RETRY: 빨간·검은 필기 완전 전사, 정확한 시선 각도, 무릎/발등 압력, 스프링 설정, 개별 컷과 호흡 단계 일대일 대응. Curl Up/Roll Up과 186개 고유 ID 최종 대조 및 Pages QA 미완료.
