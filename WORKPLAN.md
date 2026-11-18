@@ -1744,3 +1744,10 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - SOURCE: WHY 움직임을 통한 견갑대 및 골반 안정화, Shoulder Extensor 강화, 중립 척추 인지. START 캐리지 위 무릎 앉음, 무릎·다리 골반너비, 양손 스트랩, 팔 몸통 옆. BREATH INHALE Ready → EXHALE Shoulder Extension → INHALE Turn One's Head Sideways → EXHALE Look a Head → INHALE Return to Starting Position. MOVEMENT TVA/Pelvic Floor, Neutral Spine, Shoulder Extensor, Scapula Stabilizer. WATCH 골반 Rocking/허리 굴곡 회피, 캐리지 흔들림 회피, 목 회전 시 어깨 고정, 견갑 안정. VARIATION Chest Expansion With Pulse.
 - PHOTO: 5컷은 옆모습·뒷모습·고개 돌림·팔 뒤로 뻗음·복귀를 보여줌. 양 무릎/정강이는 캐리지에 접촉, 발은 뒤쪽으로 놓여 있으나 발등 압력은 판독 불가. 손은 스트랩 핸들을 잡고 서서히 몸통 뒤로 당김. 인쇄된 호흡의 고개 회전 방향은 특정되지 않음.
 - COACHING 별도: 갈비뼈 과신전 없이 견갑대 안정, 목 회전은 편안한 범위에서 시행, 손목 중립 유지. UNVERIFIED/RETRY: 빨간·검은 필기 완전 전사, 정확한 시선 각도, 무릎/발등 압력, 스프링 설정, 개별 컷과 호흡 단계 일대일 대응. Curl Up/Roll Up과 186개 고유 ID 최종 대조 및 Pages QA 미완료.
+
+
+## 2026-11-19 00:04 KST — Reformer Sitting Arm Forward Footbar Series pp.36–37
+- **p.36** · Drive `1HUDOyrFyOiQkxPPWBuz8NvpOAxKCjIOI`: original JPG opened and inspected. Straight Forward (3 photos) and Hugging Arm (3 photos). SOURCE / PHOTO / COACHING separately documented in movement-manual.html. **PHOTO INSPECTED / PARTIAL**, not verified.
+- **p.37** · Drive `1RUJDFzInYCmXywuZS5cMSYW-r3rtZamd`: original JPG opened and inspected. Salute (3 photos), printed inhale/exhale, movement points, watch points, variation. **PHOTO INSPECTED / PARTIAL**, not verified.
+- **RETRY:** ambiguous handwriting, gaze, foot pressure/contact, spring setting, p.37 final variation wording, photo-by-photo breath mapping. Keep both pages excluded from fully verified tally until resolved.
+- **NEXT:** Reformer Back Rowing Prep Flat/Round Back originals; revisit unresolved notes and public HTTP deployment check.
