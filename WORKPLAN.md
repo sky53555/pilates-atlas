@@ -1726,3 +1726,9 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 
 ## 2026-11-18 19:57 KST — Chair 022 original-photo inspection
 - **022 Chair Cat Spine Standing Front — Arm Press**, printed p.90, Drive `1VNft5pcCuYfBzUIpy0WU20R4rEoKQtPw`: original JPG directly opened and six photos visually checked. SOURCE WHY spinal segmental awareness and elbow-extensor activation; START neutral standing facing chair, feet hip-width, arms overhead. BREATH exact printed sequence INHALE Ready → EXHALE Flexion Forward & Pedal → INHALE Elbow Flexion → EXHALE Elbow Extension → INHALE Roll Up → EXHALE Return. No separate printed Movement Point / Watch Point / Variation section. PHOTO hands touch pedal in forward fold, elbows bend/extend, both feet remain on floor, then segmental return to standing. COACHING separate from SOURCE. **PHOTO INSPECTED / PARTIAL — NOT FULLY VERIFIED**. RETRY red handwriting, precise gaze/hip angles, foot pressure, spring resistance, overlaid gray silhouette and photo-breath correspondence. Next Chair 021 / 020 and unresolved original images. Final 186-photo audit outstanding.
+
+
+## 2026-11-18 20:58 KST — Chair 020–021 재검수 (실제 JPG)
+- **020 Cat Spine Standing Front — Articulation**, printed p.88, Drive `19nfXq9NftWlYei4DYn5K2ushz5VeI32x`: 원본 JPG 실제 열람. 6컷, 시작자세·발바닥 바닥 접촉·척추 분절·고관절 굴곡 및 인쇄 호흡 5단계, Movement/Watch 항목 대조. **PHOTO INSPECTED / PARTIAL, NOT FULLY VERIFIED**. RETRY 빨간 손글씨 전체, 시선, 발 압력, 스프링 저항, 정확한 관절 각도 및 사진-호흡 매칭.
+- **021 Cat Spine Standing Front — AB Press**, printed p.89, Drive `1NpuiqX9cunYaVt512zSZhYMTIsfzOqj8`: 원본 JPG 실제 열람. 6컷, 인쇄 호흡 6단계(특히 EXHALE 3 Pulse, Roll Down), 두 발 바닥 접촉, 몸통 굴곡/부분 회복 확인. **PHOTO INSPECTED / PARTIAL, NOT FULLY VERIFIED**. RETRY 손글씨 전체, pulse 사진 대응, 시선, 고관절 각도, 발 압력, 스프링 저항. 021의 원본 인쇄 제목 **AB Press**와 022의 **Arm Press**를 혼동하지 않음.
+- `movement-manual.html`에 SOURCE / PHOTO / COACHING / UNVERIFIED를 분리한 재대조 기록 추가. 186장 최종 검수와 공개 Pages QA 미완료. NEXT: 다른 미완료 사진 및 미확인 항목 재시도. 전체 검증완료 수 변경 없음.
