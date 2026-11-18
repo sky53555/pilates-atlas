@@ -1732,3 +1732,9 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - **020 Cat Spine Standing Front — Articulation**, printed p.88, Drive `19nfXq9NftWlYei4DYn5K2ushz5VeI32x`: 원본 JPG 실제 열람. 6컷, 시작자세·발바닥 바닥 접촉·척추 분절·고관절 굴곡 및 인쇄 호흡 5단계, Movement/Watch 항목 대조. **PHOTO INSPECTED / PARTIAL, NOT FULLY VERIFIED**. RETRY 빨간 손글씨 전체, 시선, 발 압력, 스프링 저항, 정확한 관절 각도 및 사진-호흡 매칭.
 - **021 Cat Spine Standing Front — AB Press**, printed p.89, Drive `1NpuiqX9cunYaVt512zSZhYMTIsfzOqj8`: 원본 JPG 실제 열람. 6컷, 인쇄 호흡 6단계(특히 EXHALE 3 Pulse, Roll Down), 두 발 바닥 접촉, 몸통 굴곡/부분 회복 확인. **PHOTO INSPECTED / PARTIAL, NOT FULLY VERIFIED**. RETRY 손글씨 전체, pulse 사진 대응, 시선, 고관절 각도, 발 압력, 스프링 저항. 021의 원본 인쇄 제목 **AB Press**와 022의 **Arm Press**를 혼동하지 않음.
 - `movement-manual.html`에 SOURCE / PHOTO / COACHING / UNVERIFIED를 분리한 재대조 기록 추가. 186장 최종 검수와 공개 Pages QA 미완료. NEXT: 다른 미완료 사진 및 미확인 항목 재시도. 전체 검증완료 수 변경 없음.
+
+## 2026-11-18 22:03 KST — Chair 019 Tendon Stretch 원본 JPG 검수
+- **019 Chair Tendon Stretch**, 인쇄 p.87, Drive `1RPDtrSV9fjzyUAtR1En54bVsAnnIFrCU`: 실제 JPG를 열어 두 사진과 Why / Starting Position / Breathing & Movement Sequence / Movement Point / Watch Point / Variation 인쇄 문구를 대조함. **PHOTO INSPECTED / PARTIAL — NOT FULLY VERIFIED**.
+- SOURCE: 체어 끝에 살짝 걸터앉고 양손으로 체어 끝을 잡으며, 양발 모아 뒤꿈치 들고 상체 C커브. 호흡 INHALE Ready → EXHALE Pull Up → INHALE Return. TVA, pelvic floor, rectus abdominis/oblique, scapula stabilizer. 스프링 처음 무겁게 시작 후 조절, 손으로 끌지 말고 밀어내기, 시선 고정 및 경추 과굴곡 방지, 반동 없이 복부 조절. Variation 페달 분리.
+- PHOTO: 두 컷 모두 손은 체어 상단, 발 앞부분은 페달에 닿고 뒤꿈치는 들림; 두 번째 컷에서 골반 상승·무릎 신전 증가·페달 상승. 발은 바닥이 아니라 페달 접촉. COACHING 별도 구분해 `movement-manual.html`에 기록.
+- RETRY: 정확한 시선 목표, 발 압력 분포, 스프링 수치, 고관절 각도, 사진-호흡 정밀 매칭. 다음은 Chair 017 등 미완료 원본, Curl Up/Roll Up 직접 대조. 186장 전체 검증 및 공개 Pages 최종 QA 미완료.
