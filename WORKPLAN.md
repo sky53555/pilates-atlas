@@ -1935,3 +1935,11 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - **COACHING (원본과 별도):** 스프링 반동에 몸통이 끌려가지 않게 흉곽·골반 정렬을 관찰하고, 손목 과신전과 어깨 으쓱임을 피하도록 큐잉할 수 있음. 원본 인쇄 지시로 오인 금지.
 - **RETRY / UNVERIFIED:** 손글씨 완전 판독, 사진별 동작명 대응, 정확한 스프링 위치·강도, 호흡별 단계(원본에는 구체적인 INHALE/EXHALE 배정 없음), 시선 목표, 고관절·발 접촉 및 압력, 작용근과 베리에이션의 실행 사진. 원본 사진 두 컷만으로 5개 세부 동작의 전 과정 검증 불가.
 - **NEXT:** Reformer 053–057 원본 파일 목록 재탐색 및 실제 이미지 검수; 이 파일은 Cadillac 섹션으로 분류 정정 검토. 186장 전수 검수·공개 페이지 QA 미완료.
+
+
+## 2026-11-20 06:00 KST — Reformer 053 Ankle Exercise 원본 직접 검토
+- **053 Reformer Ankle Exercise**, 인쇄 p.7, Drive `1mUUY5-K90tJ0zuo34T8sSO-VEZ0RUx5I`: 원본 JPG를 실제 열어 인쇄 문구와 왼쪽 5컷 확인. **PHOTO INSPECTED / PARTIAL — NOT FULLY VERIFIED**.
+- **SOURCE:** Why: 발목 움직임 인지 및 가동성 향상. Starting Position: 척추·골반 중립, 두 다리 모아 발가락을 풋바에 올리고 뒤꿈치를 약간 들어 준비, 양팔은 골반 옆에 길게. Breathing: INHALE Push Carriage Out → EXHALE Dorsi Flexion → INHALE Plantar Flexion (옆 메모: 1~6회 반복을 늘린다) → EXHALE Return to Starting Position. Movement Point: TVA, pelvic floor, hip/knee flexion-extension, pelvic/scapula stabilizers, ankle dorsiflexion/plantarflexion. Watch: 어깨·목 긴장, 골반 중립, 다리 정렬과 발목 움직임 집중. Variation: 발목 운동만 하기; 아킬레스건 스트레치.
+- **PHOTO:** 1 굽힌 무릎과 발 앞쪽 풋바 접촉 → 2 캐리지 밀고 무릎 펴기 → 3 발목 배측굴곡/뒤꿈치 낮추기 → 4 발목 저측굴곡/뒤꿈치 올리기 → 5 무릎 굽혀 시작자세 복귀. 양팔은 몸통 옆, 머리·몸통은 캐리지 지지. 사진에서 발의 실제 하중이나 정확한 시선은 확정 불가.
+- **COACHING (원본과 별도):** 발목 가동 시 무릎을 고정하고 발바닥 압력 변화가 지나치게 치우치지 않는지 관찰. 원본의 '발목 운동만 하기'는 구체적 기구 설정이 명시되지 않아 임의로 확정하지 않음.
+- **RETRY / UNVERIFIED:** 발가락·중족골 접촉 압력, 정확한 고관절/무릎 각도, 시선, 스프링 강도, 1~6회 메모가 반복 횟수인지 증량인지, Variation 수행 방식, 호흡과 사진의 1:1 대응. 완전 검증 수 증가 없음. **NEXT:** Reformer 054 Running, 055 Hip Rolls, 056–057 Single Leg Footwork; 047–050 누락 재확인. 전체 186장 및 Pages QA 미완료.
