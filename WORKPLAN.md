@@ -1951,3 +1951,11 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - **PHOTO:** 세 컷에서 머리와 등은 테이블에 지지, 양손은 머리 위 가로봉 잡음. 양발은 각각 스트랩/스프링에 연결. 첫 컷은 두 다리를 길게 뻗은 대칭 자세, 둘째·셋째는 한쪽 무릎이 굽혀진 교대 위치. 사진만으로 좌우 순서, 정확한 고관절 각도·발 하중·시선은 단정 불가.
 - **COACHING (원본 외 보충):** 스트랩의 당김에 의해 골반이 비틀리거나 갈비뼈가 들리지 않는지 관찰하고, 무릎 과신전 대신 고관절 움직임에 집중하도록 안내할 수 있음.
 - **RETRY / UNVERIFIED:** 인쇄된 Why의 몸통 회전과 사진의 교대 다리 동작 관계, ‘5 Count’가 한 호흡에 다섯 교대인지, 정확한 시선, 스트랩 접촉·압력, 스프링 강도, 사진별 호흡 대응, 기구명 원본 본문 명시 여부. **Reformer Walking으로 검증 완료 처리 금지**. 완전 검증 수 증가 없음. NEXT: Reformer 054–057 실물 사진 파일명과 순번 재대조, 미검수 원본·재시도 큐, 전체 186장 및 공개 페이지 QA.
+
+
+## 2026-11-20 08:00 KST — Single Leg Footwork / Coordination 원본 직접 확인
+- Drive `1tBo5MCFZ7pHQ7Kx5ECTF8Fv0uZq8ThHU`, 파일명 `Reformer - Single Leg Footwork - Combination`: 실제 JPG 열람, 인쇄 p.12, 제목 **Single Leg Footwork — 3. Coordination**. 사진 1–8컷 및 Why/Starting Position/Breathing & Movement Sequence/Movement Point/Watch Point/Variation 대조. **PHOTO INSPECTED / PARTIAL — NOT FULLY VERIFIED**.
+- **SOURCE:** Why: 골반/몸통 안정화, 협응 향상, 발목 움직임 인지·가동성, Hip Flexor & Extensor 활성화. Starting: 한 다리를 테이블에 직각으로 세워 들고 다른 발을 풋바에 올려 놓은 뒤 양 무릎 굴곡, 다리 대칭. Breathing: INHALE Leg Fold & Reach Leg to Ceiling → EXHALE Lower Leg Toward Footbar & Lift Leg to Ceiling → INHALE Dorsi Flexion & Plantar Flexion → EXHALE Leg Fold & Return to Starting Position. Movement: TVA/Pelvic Floor; Hip & Knee Flexion/Extension; Ankle Dorsi/Plantar Flexion. Watch: 골반을 뒤로 기울이지 않게 반듯이 정렬, 골반 회전/한쪽 올라감 방지, 다리 정렬 및 발목 움직임. Variation: 발의 뒤꿈치를 풋바 위에 두기; 발목 움직임 제외.
+- **PHOTO:** 1–2 무릎 굽힌 다리 배치 변화, 3–4 풋바 지지 다리 신전과 반대 다리 천장 방향 신전, 5–6 양다리 긴 자세에서 발목 변화, 7 무릎 굽혀 복귀, 8 다리 교대 시작으로 보이는 위치. 사진상 머리·등·골반 캐리지 지지, 팔은 옆. 사진만으로 정확한 호흡-컷 대응 및 하중 확정 불가.
+- **COACHING (원본 외):** 풋바 지지 다리의 무릎이 발 방향을 따르는지 관찰하고, 공중 다리 움직임으로 골반이 흔들리지 않게 저항과 범위를 조절한다.
+- **RETRY / UNVERIFIED:** 제목의 Combination과 인쇄 3. Coordination 관계, 사진 1–8의 정확한 좌우/순서, 발 접촉 압력·시선·고관절 각도·스프링 강도·반복 횟수·호흡-컷 일대일 대응. 완전 검증 수 증가 없음. **NEXT:** Reformer 054–057 파일명/실물 목록 재확인, 다른 미검수 및 재시도 항목, 186장 전수 대조와 Pages QA.
