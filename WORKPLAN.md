@@ -1909,3 +1909,9 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - **044 Barrel Prone Exercise Series**, p.113, Drive `1jOaqUkekkyHG8ktNuO5WT1dRVXUZ7ecb`: 원본 이미지 직접 열람. SOURCE / PHOTO / COACHING / UNVERIFIED 분리하여 movement-manual.html에 기록. **PHOTO INSPECTED / PARTIAL — NOT FULLY VERIFIED**. RETRY: 원본에 없는 호흡을 특정하지 말 것. 빨간 필기 ‘중립’, ‘뒤로 ...’ 판독, ASIS의 실제 압박 위치, 시선 및 고관절 신전 각도, 각 변형의 반복 수.
 - **045 Barrel Grasshopper**, p.114, Drive `12O1XoSCC4tL1KzcxP4JDsLMDms-KvQxG`: 원본 이미지 직접 열람. SOURCE / PHOTO / COACHING / UNVERIFIED 분리하여 movement-manual.html에 기록. **PHOTO INSPECTED / PARTIAL — NOT FULLY VERIFIED**. RETRY: 빨간 필기 ‘분명히 ...’, ‘햄스트링 ...’ 정확한 판독, 사진 3/5의 교차발 순서와 반복 횟수, 시선·손 압력·고관절 각도.
 - 043 Horse(2컷), 044 Prone Exercise Series(6컷), 045 Grasshopper(7컷) 총 3장·15컷 확인. 044의 세 하위 운동은 한 장의 시리즈로 기록하고 원본에 없는 호흡을 임의 추가하지 않음. 완전 검증 수 증가 없음. NEXT: Barrel 046 Ballet Stretch 및 다른 미검수 사진, 기존 재시도 큐. 186장 전수 검수·공개 페이지 최종 확인 미완료.
+
+
+## 2026-11-20 02:00 KST — Barrel 046 Ballet Stretch 원본 JPG 직접 열람
+- **046 Barrel Ballet Stretch**, printed p.115, Drive `1TLDnaI6QgM31KOnu-rplZo9oPFwA0YrB`: 원본 JPG를 열어 사진 1–12컷 직접 확인. ①–⑤ 앞다리 배럴 올리기·발목 방향 변경·양팔 머리 위·전굴, ⑥–⑧ 무릎 굽혀 배럴 지지·흉곽 신전·전굴, ⑨–⑩ 옆다리 올리기·측굴, ⑪–⑫ 뒤쪽 발 배럴 지지·앞무릎 런지형 스트레치로 구분. 이 페이지에는 인쇄 호흡/Why/Watch Point/Variation 문단이 없으므로 임의로 원본 지시를 만들지 않음. `movement-manual.html`에 SOURCE / PHOTO / COACHING / UNVERIFIED 분리 반영. **PHOTO INSPECTED / PARTIAL — NOT FULLY VERIFIED**.
+- **RETRY:** 붉은 손글씨 정확한 판독, 12컷의 시퀀스/독립 변형 구분, 호흡·유지 시간·반복 횟수, 시선·발 압력·고관절 각도, 무릎/발 접촉, 좌우 교대. 실패가 아니라 이미지 열람 성공, 미확인 정보는 재검증 대기. 완전 검증 수 증가 없음.
+- **NEXT:** Reformer 047 이후 미검수 원본 및 기존 RETRY 큐. 186장 전수 검수와 공개 페이지 최종 확인 미완료.
