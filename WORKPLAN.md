@@ -1870,3 +1870,9 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - **032 Barrel Round Back With Twist — Sequence**, printed p.101, Drive `1gNytUvYr2ct-tOZsOCDBz8URufpYzJbA`: actual JPG opened, nine numbered frames visually inspected. Sitting with feet against ladder and pole overhead → lean back/arms forward → pole overhead → twist left/right → return → forward flexion → upright. **PHOTO INSPECTED / PARTIAL — NOT FULLY VERIFIED**. RETRY: precise frame-to-breath alignment, left/right twist sequence, gaze and ladder foot pressure. Two original pages are one movement, not two distinct exercises.
 - **Important:** printed 'Rollup' is a return phase in Barrel Round Back With Twist, not standalone Mat Roll Up. Printed 'Neutral Spine' in Movement Point must not override photographed round-back phase. No increase to fully verified count.
 - **NEXT:** Barrel 033–034 Lean instruction/sequence; then 035–036 Tree Prep. Continue uncertain handwriting and Curl Up vs Roll Up checks; 186-photo reconciliation and Pages HTTP QA pending.
+
+## 2026-11-19 19:55 KST — Barrel 033–034 원본 이미지 대조
+- **033 Barrel Lean instructions · p.102**: 원본 JPG 직접 열람. Why, Starting Position, 9단계 호흡/동작, Movement Point, Watch Point 5개, Reformer(with Box) Variation 대조. 상태 **PHOTO INSPECTED / PARTIAL — NOT FULLY VERIFIED**. 원본에 없는 발 압력·시선 지시를 추가하지 않음.
+- **034 Barrel Lean sequence · p.103**: 원본 JPG 직접 열람, 9컷을 순서대로 비교. 양발 Ladder 지지, 양팔 Pole 머리 위, 몸통 회전 후 Lean, 수직 복귀와 중앙 복귀를 확인. 붉은 필기 정확한 판독, 컷별 호흡 대응, 시선·발 접촉면·압력·각도는 미확인. 상태 **PHOTO INSPECTED / PARTIAL — NOT FULLY VERIFIED**.
+- 두 사진은 하나의 Lean 운동 설명과 순서 페이지. `movement-manual.html`에 SOURCE / PHOTO / COACHING / UNVERIFIED 분리 기록. **완전 검증 건수에 추가하지 않음.**
+- **Next:** Barrel 035–036 Tree Prep; 미확인 손글씨 및 접촉 지점은 재시도 큐에 유지. 전체 186장 최종 검수와 공개 페이지 HTTP 확인은 미완료.
