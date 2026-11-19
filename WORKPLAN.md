@@ -1809,3 +1809,9 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - p.39: Straight Forward and Biceps Curl. p.40: Teardrop outward/inward and Salute, plus Sitting Offering variation. Kept source vs photo observation vs instructor additions separate in `movement-manual.html`.
 - Status for **each of these two photos: PHOTO INSPECTED / PARTIAL, not source-verified**. Retry: p.40 outward/inward breathing correspondence, illegible handwritten cues on both pages, exact gaze, instep/sole pressure, spring settings and precise frame-to-breath mapping. Do not increase fully verified count.
 - Next: continue other uninspected apparatus pages; revisit these uncertainties without blocking other images. Curl Up vs Roll Up previously independently checked; no change to those records.
+
+## 2026-11-19 09:55 KST — Cadillac Sitting Arm Away Spring Series original p.41
+- Drive `1olHHdBzp4gp8crAzdwLPrsb15xbfPojA` original JPG directly opened and visually read. Although its Drive filename starts **Reformer**, printed source heading is **Cadillac**, p.41. Correct apparatus classification in new manual section; do not propagate filename misclassification.
+- Five listed sub-exercises: Straight Forward, Biceps Curl, Teardrop Outward/Inward, Salute, Hugging Arm. Printed starting position, Reformer breathing reference, resistance/range warning, and variations (kneeling/cross-legged, unilateral, reciprocal) recorded. Two photo frames checked; source/photo/coaching separated in `movement-manual.html`.
+- **PHOTO INSPECTED / PARTIAL — NOT FULLY VERIFIED**. RETRY: handwritten notes, second frame exercise attribution, source-referenced Reformer breathing for each sub-exercise, spring setting, foot pressure, gaze and joint angles. Do not increment fully verified tally.
+- NEXT: remaining uninspected apparatus originals, Chair 008/007, targeted Curl Up vs Roll Up QC and public HTTP QA. All 186 not yet verified.
