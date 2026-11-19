@@ -1926,3 +1926,12 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - SOURCE: 2 Wrap Toes — toes wrap bar, heels lowered/dorsiflexion; 3 Frog — externally rotated V-shaped feet, heels together; 4 Heels up — toes on bar, heels raised. Printed variations: opposite breathing; pelvic-width Parallel / Lateral Rotation / Medial Rotation. No separate printed breathing phases, Why, Movement Point, Watch Point on this photographed page; do not fabricate them.
 - **RETRY:** unclear red handwriting; actual heel/ball/toe load and contact pressure; gaze, hip/knee angles, full-body alignment, exact breath sequence, spring load, repetitions. Photo does not show head/pelvis. No fully verified count increase.
 - Inventory: full Apparatus folder listing returned 117 entries, including 052–057; previous 100-entry folder preview was incomplete. **NEXT:** Reformer 053–057; reconcile 047–050 and retry queue. Public Pages HTTP QA and 186-photo full audit pending.
+
+
+## 2026-11-20 05:04 KST — 원본 분류 오류 확인 및 부분 검수
+- **Drive `1olHHdBzp4gp8crAzdwLPrsb15xbfPojA`**, 파일명 `Reformer - Sitting Away Spring Series`: 원본 JPG 직접 열람 결과 **인쇄 제목은 Cadillac — Sitting Arm Away Spring Series, p.41**. 파일명의 Reformer 분류와 원본 기구가 충돌하므로 **CADILLAC / PHOTO INSPECTED / PARTIAL — NOT FULLY VERIFIED**로 기록. Reformer로 검증 완료 처리 금지.
+- **SOURCE:** 하위 동작 1 Straight Forward, 2 Biceps Curl, 3 Teardrop Outward / Inward, 4 Salute, 5 Hugging Arm. Starting Position: Push-thru Bar를 바라보고 스프링을 쥐고 척추와 골반을 중립으로 두고, 팔을 펴거나 굽혀 시작자세 구성. Breathing & Movement Sequence: Reformer 동작과 유사한 동작 실행, 스프링 저항 증가에 따라 움직임 제어, 저항을 이기며 상승하고 운동 방향을 바꿀 때 집중, Salute는 상체를 수직으로 만들어 시작. Variation: Kneeling Position, Unilateral, Reciprocal.
+- **PHOTO:** 두 컷 모두 캐딜락 프레임과 스프링이 보이고 무릎 꿇고 앉은 자세에서 팔 동작. 위 컷은 팔을 몸통 옆에 내린 위치, 아래 컷은 팔을 얼굴 위로 굽혀 들어 올린 위치. 손글씨는 '엉덩이에 힘을 주고', '위로 올라가는' 정도만 잠정 판독. 인쇄된 5개 동작 전체가 각각 사진으로 제시되지는 않음.
+- **COACHING (원본과 별도):** 스프링 반동에 몸통이 끌려가지 않게 흉곽·골반 정렬을 관찰하고, 손목 과신전과 어깨 으쓱임을 피하도록 큐잉할 수 있음. 원본 인쇄 지시로 오인 금지.
+- **RETRY / UNVERIFIED:** 손글씨 완전 판독, 사진별 동작명 대응, 정확한 스프링 위치·강도, 호흡별 단계(원본에는 구체적인 INHALE/EXHALE 배정 없음), 시선 목표, 고관절·발 접촉 및 압력, 작용근과 베리에이션의 실행 사진. 원본 사진 두 컷만으로 5개 세부 동작의 전 과정 검증 불가.
+- **NEXT:** Reformer 053–057 원본 파일 목록 재탐색 및 실제 이미지 검수; 이 파일은 Cadillac 섹션으로 분류 정정 검토. 186장 전수 검수·공개 페이지 QA 미완료.
