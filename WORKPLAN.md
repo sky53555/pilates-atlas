@@ -1876,3 +1876,9 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - **034 Barrel Lean sequence · p.103**: 원본 JPG 직접 열람, 9컷을 순서대로 비교. 양발 Ladder 지지, 양팔 Pole 머리 위, 몸통 회전 후 Lean, 수직 복귀와 중앙 복귀를 확인. 붉은 필기 정확한 판독, 컷별 호흡 대응, 시선·발 접촉면·압력·각도는 미확인. 상태 **PHOTO INSPECTED / PARTIAL — NOT FULLY VERIFIED**.
 - 두 사진은 하나의 Lean 운동 설명과 순서 페이지. `movement-manual.html`에 SOURCE / PHOTO / COACHING / UNVERIFIED 분리 기록. **완전 검증 건수에 추가하지 않음.**
 - **Next:** Barrel 035–036 Tree Prep; 미확인 손글씨 및 접촉 지점은 재시도 큐에 유지. 전체 186장 최종 검수와 공개 페이지 HTTP 확인은 미완료.
+
+## 2026-11-19 20:57 KST — Barrel 035–036 Tree Prep 직접 원본 대조
+- **035 Barrel Tree Prep Instructions**, printed p.104, Drive `1Joqg1fulSvbOV5wFWRNQf7YQsM54FhQx`: JPG 직접 열람, Why / Starting Position / 호흡 6단계(무릎 굴신 3회 반복) / Movement Point / Watch Point / Variation 확인. **PHOTO INSPECTED / PARTIAL — NOT FULLY VERIFIED**.
+- **036 Barrel Tree Prep Sequence**, printed p.105, Drive `1Hap-fSx3OOLLlhJbdPtoCsReHLHZYnAN`: JPG 직접 열람, 번호 1–8 사진 확인. Barrel 앉기, Ladder 지지발 유지, 반대 다리 굴곡·신전, 다리 따라 손 이동, 척추 굴곡으로 뒤로 내려갔다 복귀하는 연속 동작. **PHOTO INSPECTED / PARTIAL — NOT FULLY VERIFIED**.
+- `movement-manual.html`에 SOURCE / PHOTO / COACHING / UNVERIFIED 별도 구분. 원본의 Roll Up은 Tree Prep 복귀 단계이지 독립 Mat Roll Up이 아님. **RETRY:** p.104 ‘추골’ 문구 의미, 8컷-호흡 대응, 손 이동 타이밍, 지지발 접촉 압력, 정확한 시선·고관절 각도. 완전 검증 수 증가 없음.
+- **NEXT:** Barrel 037 Side Bend, 038 Swan, 039 Spinal Extension 및 미확인 항목 재검증. 186장 전수 검수와 공개 페이지 확인 미완료.
