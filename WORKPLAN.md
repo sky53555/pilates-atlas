@@ -1882,3 +1882,10 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - **036 Barrel Tree Prep Sequence**, printed p.105, Drive `1Hap-fSx3OOLLlhJbdPtoCsReHLHZYnAN`: JPG 직접 열람, 번호 1–8 사진 확인. Barrel 앉기, Ladder 지지발 유지, 반대 다리 굴곡·신전, 다리 따라 손 이동, 척추 굴곡으로 뒤로 내려갔다 복귀하는 연속 동작. **PHOTO INSPECTED / PARTIAL — NOT FULLY VERIFIED**.
 - `movement-manual.html`에 SOURCE / PHOTO / COACHING / UNVERIFIED 별도 구분. 원본의 Roll Up은 Tree Prep 복귀 단계이지 독립 Mat Roll Up이 아님. **RETRY:** p.104 ‘추골’ 문구 의미, 8컷-호흡 대응, 손 이동 타이밍, 지지발 접촉 압력, 정확한 시선·고관절 각도. 완전 검증 수 증가 없음.
 - **NEXT:** Barrel 037 Side Bend, 038 Swan, 039 Spinal Extension 및 미확인 항목 재검증. 186장 전수 검수와 공개 페이지 확인 미완료.
+
+
+## 2026-11-19 22:01 KST — Barrel 037–039 direct JPG inspection
+- **037 Barrel Side Bend**, printed p.106, Drive `1EyyW6J7n4f_dmdKrQvx2bIq1c3TVwAYG`: original JPG opened and printed sections plus photo sequence examined. **PHOTO INSPECTED / PARTIAL — NOT FULLY VERIFIED**. SOURCE / PHOTO / COACHING / UNVERIFIED recorded separately in movement-manual.html. RETRY: 붉은 필기 정확한 판독, 앞쪽 교차 다리의 발 접촉, 정확한 발 압력과 시선, 각도 및 3컷-호흡 대응.
+- **038 Barrel Swan**, printed p.107, Drive `1HnuYCjS-L_Nq7_3DPlS3HfVknTnZhJB4`: original JPG opened and printed sections plus photo sequence examined. **PHOTO INSPECTED / PARTIAL — NOT FULLY VERIFIED**. SOURCE / PHOTO / COACHING / UNVERIFIED recorded separately in movement-manual.html. RETRY: 붉은 손글씨(첫 신전 컷 아래) 판독, 발끝의 정확한 접촉면·압력, 골반 위치 변화, 호흡-5컷 일대일 대응, 시선 목표.
+- **039 Barrel Spinal Extension**, printed p.108, Drive `18QrgAfX1z3F-nsFQEQRMO71XLqjZb3EB`: original JPG opened and printed sections plus photo sequence examined. **PHOTO INSPECTED / PARTIAL — NOT FULLY VERIFIED**. SOURCE / PHOTO / COACHING / UNVERIFIED recorded separately in movement-manual.html. RETRY: Ladder 발 접촉면·압력, 실제 고관절 외회전 각도, 팔꿈치 위치와 정확한 시선, 신전의 척추 분절별 범위 및 호흡-사진 대응.
+- 038 Swan and 039 Spinal Extension are distinct: Swan uses arms overhead and curved start; Spinal Extension uses hands at forehead and a long-line start. No fully verified count increase. NEXT: remaining uninspected original pages and existing retry queue, Curl Up/Roll Up source comparison, 186-photo reconciliation and Pages QA.
