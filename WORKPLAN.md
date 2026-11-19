@@ -1943,3 +1943,11 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - **PHOTO:** 1 굽힌 무릎과 발 앞쪽 풋바 접촉 → 2 캐리지 밀고 무릎 펴기 → 3 발목 배측굴곡/뒤꿈치 낮추기 → 4 발목 저측굴곡/뒤꿈치 올리기 → 5 무릎 굽혀 시작자세 복귀. 양팔은 몸통 옆, 머리·몸통은 캐리지 지지. 사진에서 발의 실제 하중이나 정확한 시선은 확정 불가.
 - **COACHING (원본과 별도):** 발목 가동 시 무릎을 고정하고 발바닥 압력 변화가 지나치게 치우치지 않는지 관찰. 원본의 '발목 운동만 하기'는 구체적 기구 설정이 명시되지 않아 임의로 확정하지 않음.
 - **RETRY / UNVERIFIED:** 발가락·중족골 접촉 압력, 정확한 고관절/무릎 각도, 시선, 스프링 강도, 1~6회 메모가 반복 횟수인지 증량인지, Variation 수행 방식, 호흡과 사진의 1:1 대응. 완전 검증 수 증가 없음. **NEXT:** Reformer 054 Running, 055 Hip Rolls, 056–057 Single Leg Footwork; 047–050 누락 재확인. 전체 186장 및 Pages QA 미완료.
+
+
+## 2026-11-20 07:02 KST — Walking 원본 이미지 직접 대조 및 분류 오류
+- Drive `1XXz23hkJJ6d_cr6GywLARuQZvt9-TXsW`, 파일명 `Reformer - Walking`: 실제 JPG 열람. 인쇄 제목 **Walking**, p.24. 사진 3컷 모두 캐딜락/트라피즈 테이블의 수직 프레임·스프링·발 스트랩을 보여줌. 파일명 Reformer와 기구가 불일치하므로 **CADILLAC (사진 근거) / PHOTO INSPECTED / PARTIAL — NOT FULLY VERIFIED**. 원본 인쇄 제목에는 기구명이 별도로 없음.
+- **SOURCE:** Why: 몸통 회전의 움직임 인지, hip joint 가동성 향상 및 조절력 향상. Starting Position: 두 다리는 외회전하여 어깨너비, 스트랩을 걸고 Imprint 유지, 천장을 향해 다리를 들어 준비; 팔은 머리 위 봉을 잡음. Breathing: INHALE Ready → EXHALE (5 Count) Walking / Alternating Leg → INHALE (5 Count) Walking / Alternating Leg → EXHALE Return to Starting Position. 옆 인쇄: 8–10회 반복. Movement Point: Transverse Abdominis, Pelvic Floor / Leg Movement: Hip Extension / Scapula Stabilizer. Watch: Imprinting 유지하면서 고관절에서 다리 움직임, 고관절 외회전 유지, 수직 다리 정렬, 무릎 과신전 금지. Variation: 5 Count 생략, One Leg Hip Extension → Return → Other Leg Hip Extension → Return.
+- **PHOTO:** 세 컷에서 머리와 등은 테이블에 지지, 양손은 머리 위 가로봉 잡음. 양발은 각각 스트랩/스프링에 연결. 첫 컷은 두 다리를 길게 뻗은 대칭 자세, 둘째·셋째는 한쪽 무릎이 굽혀진 교대 위치. 사진만으로 좌우 순서, 정확한 고관절 각도·발 하중·시선은 단정 불가.
+- **COACHING (원본 외 보충):** 스트랩의 당김에 의해 골반이 비틀리거나 갈비뼈가 들리지 않는지 관찰하고, 무릎 과신전 대신 고관절 움직임에 집중하도록 안내할 수 있음.
+- **RETRY / UNVERIFIED:** 인쇄된 Why의 몸통 회전과 사진의 교대 다리 동작 관계, ‘5 Count’가 한 호흡에 다섯 교대인지, 정확한 시선, 스트랩 접촉·압력, 스프링 강도, 사진별 호흡 대응, 기구명 원본 본문 명시 여부. **Reformer Walking으로 검증 완료 처리 금지**. 완전 검증 수 증가 없음. NEXT: Reformer 054–057 실물 사진 파일명과 순번 재대조, 미검수 원본·재시도 큐, 전체 186장 및 공개 페이지 QA.
