@@ -1997,3 +1997,11 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - **HANDWRITING:** 사진 주변 검은 필기 일부 존재; 정확한 문구 판독 보류, 인쇄 원본과 섞지 않음.
 - **COACHING (not source):** 기울일 때 허리 꺾기보다 몸통 길이와 골반 지지 유지, 스트랩 저항에 어깨 들썩임/손목 과신전 방지, 저항이 과하면 가동범위 축소.
 - **RETRY:** 필기 완전 판독, 실제 발 접촉면·압력, 정확한 시선/고관절 각도, 스프링 수치, 6컷과 호흡 6단계의 엄밀한 일대일 매핑, 다른 Back Rowing 단계와 구분. 다음은 Round Back 원본과 미완료 페이지. 전체 186장 완료/공개 페이지 확인은 아직 아님.
+
+
+## 2026-11-20 14:00 KST — Back Rowing Series Prep 1. Round Back, original p.34
+- **PHOTO INSPECTED / PARTIAL — NOT FULLY VERIFIED**. Drive JPG `1OE8hmDRxTbpXHtP94ebpumX6J8yDXep2` 실제 열람. 인쇄 제목 **Back Rowing Series Prep — 1. Round Back**; 4개 사진. 직전 p.35 **2. Flat Back**과 별도 동작으로 구분.
+- **SOURCE / PRINT:** Why: 척추기립근 스트레칭 및 복근 강화, 상체 협응력 증가. Starting Position: 손으로 스트랩 핸들을 잡고 척추와 골반은 중립, 두 다리는 모으고 다리 뻗음; 발꿈치는 풋바 어깨패드에 올리고 손바닥은 마주 보게 하여 팔을 듦(마지막 접촉부위 세부 표현 재확인 필요). Breathing: INHALE Ready → EXHALE Elbow Flexion & Roll Back → INHALE Keep → EXHALE Spinal Flexion Forward → INHALE Return to Starting Position. Movement Point: Transverse Abdominis, Pelvic Floor; Spinal Flexion (1); Spinal Neutral (2); Scapula Stabilizer. Watch: 어깨/목 긴장 주의, 캐리지 이동에 따른 몸통 흔들림 금지, 견갑골 안정화, 팔꿈치 좌우 조절 및 목 굴곡 주의, 손목·캐리지 움직임 주의.
+- **PHOTO:** ① 앉아 다리 앞으로 길게 뻗고 팔 앞쪽으로 핸들 잡음 ② 팔꿈치를 굽히며 몸통 뒤로 기울여 롤백 ③ 몸통과 머리를 앞으로 둥글게 굴곡하고 팔을 앞으로 뻗음 ④ 시작 자세 복귀. 풋바가 아니라 숄더레스트 근처에 발이 놓여 보임. 사진에서 정확한 발 접촉점·압력은 확정 불가.
+- **COACHING / NOT SOURCE:** 롤백 시 골반 후방경사와 척추 분절 움직임을 유도하고, 어깨를 으쓱하거나 손목으로 당기지 않게 관찰. p.35 Flat Back의 척추중립 기울이기와 p.34 Round Back의 척추 굴곡을 명확히 구분.
+- **RETRY / UNVERIFIED:** Starting Position의 발 접촉 표현 정확한 판독, 왼쪽 첫 사진 손글씨, 팔꿈치 굴곡/신전 세부 타이밍, 시선, 고관절 각도, 발 압력, 스프링 강도, 사진-호흡 1:1 매핑. 사진만으로 특정 근육 활성도 확정하지 않음. **NEXT:** 미검수 Reformer 056–057 및 Curl Up/Roll Up 원본 대조.
