@@ -2320,3 +2320,9 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - **HANDWRITING SEPARATE:** red annotation appears '회전 흉추만 위쪽으로 향하도록'; exact phrasing partly unclear. Do not present as printed Watch Point.
 - **COACHING ONLY:** rotate rib cage without yanking head or pulling elbows toward knee; keep pelvis stable and avoid lumbar twisting or rib flare; shorten leg lever if abdominal control fails. These are inferred teaching cues, not printed source text.
 - **UNVERIFIED / RETRY:** handwritten wording, exact gaze, ankle plantarflexion, hip rotation, relative pressure through sacrum, activation magnitudes. Reopen at higher resolution for red notes. **NEXT:** Mat 014 Scissors, then 013 Single Leg Stretch; revisit partial pages. Public Pages not verified this run.
+
+
+## 2026-11-22 01:04 KST — Mat 014 Scissors (printed p.16) original-photo review
+- **014 · Scissors**: Google Drive JPG `1tWR673szgVZnJ-vGv-sn4yO-SXnBdkS6` opened visually; three exercise photographs and all printed sections read. Source Why, Starting Position, INHALE Ready → EXHALE Scissors & Pulse Leg → INHALE Return, Movement Point, Watch Point, and all three Variations recorded in `movement-manual.html` with separate SOURCE / PHOTO OBSERVATION / COACHING / UNVERIFIED headings.
+- Original distinguishes scissoring extended legs with upper-spine flexion from other abdominal leg-series exercises. No floor contact by either foot. Handwriting and precise hip angles not treated as verified.
+- **Status:** photo inspected; printed sections verified; handwritten annotations partially unresolved, so **partial verification**, not complete. Next: Mat **013 Single Leg Stretch**, then 012 and remaining unverified pages. Public deployment and 186-photo final audit still outstanding.
