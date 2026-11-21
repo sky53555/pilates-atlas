@@ -2368,3 +2368,12 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - **PHOTO:** Cat has three quadruped views showing spinal flexion and extension; hands, knees and dorsal feet contact mat. Rocking Pelvic is a cropped lateral pelvic/lumbar view insufficient to determine complete range. Folding Leg shows supine legs folded into tabletop and one leg lowered with foot contact; head/trunk/arms supported. Exact heel/ball pressure, hip rotation, fixed gaze and muscle activation are not observable.
 - **COACHING ONLY:** gentle segmental Cat with breath suggestion; small pelvic anterior/posterior tilt to locate neutral; folding leg while controlling rib/pelvic movement. These are teaching suggestions, not printed source claims.
 - **STATUS:** photo inspected, printed source confirmed, **PARTIAL / NOT FULLY VERIFIED**. Retry: sequence/breath not printed, exact foot pressure, hip rotation, pelvic movement limits and adjacent-page context. **NEXT Mat 006**, then 005–001; apparatus backlog persists. Do not add to fully verified count.
+
+
+## 2026-11-22 07:00 KST — Mat 006 original photo p.7
+- **OPENED ACTUAL JPG:** https://drive.google.com/file/d/1iPvSR9SZkFj_Uz40IZDxNdcZev8GZ52R/view. Filename “Spine and Pelvis” is incomplete: printed headings **Pelvic Alignment**, **Imprinting Position**, **Scapula Alignment**; not a single exercise protocol.
+- **PRINTED SOURCE:** neutral spinal curves and pelvic neutral/anterior/posterior tilt; ASIS/pubic landmarks; imprinting as mild lumbar flexion/posterior pelvic tilt alternative when neutral lumbar stabilization is difficult; six scapular motions (elevation, depression, adduction/retraction, abduction/protraction, upward and downward rotation). Printed page 7.
+- **PHOTO:** three lateral pelvis/lumbar line diagrams and six posterior scapular arrow diagrams. No actual exercise sequence, fixed gaze, feet or hip contact shown. Handwriting “오리궁뎅이” beside anterior tilt is NOT printed source.
+- **COACHING ONLY:** ASIS–pubis triangle as tactile teaching aid; individualized neutral; non-forced breathing; serratus/trapezius contributions are anatomical commentary, not measured activation.
+- **STATUS: PHOTO INSPECTED / PRINTED CONTENT CONFIRMED / PARTIAL, NOT FULLY VERIFIED.** No source-specific inhale/exhale, foot pressure, gaze, hip rotation or exercise variation; do not fabricate. Added distinct SOURCE / PHOTO / COACHING / UNVERIFIED section in movement-manual.html.
+- **NEXT:** Mat 005, 004, 003, 002, 001, then outstanding apparatus and partial handwritten checks. Public site final QC pending.
