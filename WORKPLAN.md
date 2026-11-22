@@ -2451,3 +2451,12 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - **FOUND / FIXED:** An early `</body></html>` occurred at character offset ~697,720, leaving roughly 65k characters of subsequently appended original-photo audit sections outside the HTML document. Moved the single closing pair to the end without deleting source text, so later audit records are inside the body. GitHub manual repair commit: `8b01737ddc7b2f848d25760ca9947f288ffa7223`.
 - **NEXT:** reopen Mid-Back Series four actual source images (Drive IDs `1q-hP2Ncuph_xuZ14TZjvN40vDU9QojX-`, `1ksXr4RmPOUVKHQrVq6xsKMMeh5S0V3Pg`, `1XIh47b2Hx_EmwAN3tcAaBrFEIi-FnJ32`, `1yQY7Uqt8GgJ0WS6-rBYobD5VgLDoKTlZ`) and compare p.29–32 line by line with restored HTML; then check Coordination p.33 and later additions lost after historical snapshot. Prioritize Curl Up versus Roll Up photo cross-check. Do not mark any as FULLY VERIFIED until uncertain text, photo phases and source-versus-coaching distinctions are resolved.
 - **RETRY / BLOCKER:** actual image-level review and published GitHub Pages HTTP check were not completed in this run. Full 186-photo QC remains incomplete.
+
+
+## 2026-11-22 19:03 KST — Mid-Back Series original photos p.29–32
+- Photo 1 `1q-hP2Ncuph_xuZ14TZjvN40vDU9QojX-` printed p.29: **photo inspected / partial**, Straight Press Down and Triceps Press Down source breathing and starting position checked.
+- Photo 2 `1ksXr4RmPOUVKHQrVq6xsKMMeh5S0V3Pg` printed p.30: **photo inspected / partial**, Side Press Down and Arm Circle forward/reverse breathing checked.
+- Photo 3 `1XIh47b2Hx_EmwAN3tcAaBrFEIi-FnJ32` printed p.31: **photo inspected / partial**, Why, Movement Points, Watch Points, four variations checked.
+- Photo 4 `1yQY7Uqt8GgJ0WS6-rBYobD5VgLDoKTlZ` printed p.32: **photo inspected / partial**. CRITICAL: printed apparatus heading is **Cadillac** although Drive filename says Reformer; four Mid-Back exercises and six variation options verified as printed. Source says use Reformer breathing rather than printing separate breaths.
+- Updated `movement-manual.html` with PRINTED SOURCE / PHOTO OBSERVATION / COACHING / UNVERIFIED separated. No new photos counted as fully verified. Next: reconcile apparatus taxonomy and check the next incomplete apparatus pages; continue photo-by-photo.
+- Remaining uncertainty: handwritten annotations, precise resistance, foot pressure and p.29–31 apparatus heading outside photographed region. Public site final access check pending.
