@@ -2438,3 +2438,9 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - **COACHING ONLY:** choose a smaller leg extension to maintain abdominal control; avoid forcefully pressing neck into headrest; keep rib cage and pelvis coordinated; use low enough spring load to prevent jerky arm return. These are recommendations, not printed instructions.
 - **STATUS:** PHOTO INSPECTED / PARTIAL, NOT FULLY VERIFIED. **RETRY:** handwritten notes, precise initial shoulder-rest contact, cervical safety and gaze, spring setting, and whether source warning wording was captured exhaustively. **NEXT:** Mid-Back Series pp.29–32 (four photos). No increment to fully verified count.
 - **REPOSITORY INTEGRITY:** `movement-manual.html` fetched as an **empty 0-byte text file** at the start of this run (blob SHA `3e0df42ef9b9205f318221bedf2a71e926915eea`), despite earlier progress ledger claims of detailed entries. This is a critical missing-content issue; restored a minimal usable page containing the currently source-inspected Coordination record. Recover earlier full HTML from Git history before treating prior entries as present or complete.
+
+
+## 2026-11-22 17:03 KST — critical manual recovery
+- Found `movement-manual.html` truncated to a single Coordination entry. Retrieved intact historical version from GitHub commit `7804502` (763,058 characters), restored it to the default branch in commit `0c75980fa1da88b28f8d71c3065e6bf011f57fb8`.
+- **Important:** restoration is from an earlier snapshot. Changes after that commit need a diff-based audit before being treated as preserved; do not count this as new source-photo verification.
+- Next: inspect restored entries for Mid-Back p.29–32 and Coordination p.33, compare subsequent history and restore missing later additions, then continue unverified original photographs. No new photo marked verified in this run.
