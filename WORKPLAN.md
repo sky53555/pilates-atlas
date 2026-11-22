@@ -2543,3 +2543,9 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - Detailed record: `source-audits/reformer-coordination-p33-2026-11-23.md`, commit `f25a4c77240e15be694549ceae44f41cee7c21f1`.
 - **STATUS: PHOTO INSPECTED / PARTIAL, NOT FULLY VERIFIED**. Handwriting, exact contact/gaze, carriage and shoulder-rest geometry and photo-to-abduction mapping remain unresolved. No increment to FULL VERIFIED count.
 - **NEXT:** inspect other previously incomplete apparatus originals, particularly Reach & Bend continuation/instructions; reconcile photo-to-source ambiguities. Large `movement-manual.html` GitHub read returned empty text despite a nonempty blob SHA; preserve rather than overwrite. Full 186-photo QC and public Pages HTTP verification pending.
+
+
+## 2026-11-23 08:57 KST — Cadillac Sitting Arm Away Spring Series p.41
+- Opened actual Drive JPEG `1olHHdBzp4gp8crAzdwLPrsb15xbfPojA`. **Important index error:** Drive filename begins “Reformer,” but printed page clearly identifies **Cadillac**. Do not silently trust filenames when assigning apparatus.
+- Identified five listed exercises (Straight Forward, Biceps Curl, Teardrop Outward/Inward, Salute, Hugging Arm), common printed position/instructions, and three printed variations. Only two poses are photographed; no independent INHALE/EXHALE sequence is printed on this page. Separated printed text, observed posture, instructor interpretation and retry items in `source-audits/cadillac-sitting-arm-away-spring-series-p41-2026-11-23.md`.
+- **PHOTO INSPECTED / PARTIAL, NOT VERIFIED**. Retry: adjacent page and referenced Reformer arm patterns, support geometry, handwriting, exact contact/gaze, five sub-exercise mapping. No verified count increment. `movement-manual.html` read returned empty content with nonempty SHA, so it was not overwritten. 186-photo final QC and Pages accessibility remain pending.
