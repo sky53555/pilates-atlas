@@ -2489,3 +2489,10 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - **036 Tree Prep sequence**, original JPG `1Hap-fSx3OOLLlhJbdPtoCsReHLHZYnAN`, printed p.105: opened and compared eight photo phases with p.104. Exact gaze, foot pressure, photo-to-breath alignment remain uncertain. **PARTIAL**.
 - Detailed source/photo/coaching/uncertainty separation saved to `source-audits/barrel-034-036-p103-105.md`. Canonical large `movement-manual.html` fetch returned empty content despite nonempty SHA; not overwritten to avoid content loss.
 - **NEXT:** Barrel 037–039; retry unresolved p.103 handwriting and Tree Prep phase-to-breath mapping; safely merge audit files later. No photos newly marked fully verified; public site and 186-photo QC remain pending.
+
+
+## 2026-11-22 23:56 KST — Barrel 037–039 originals
+- **037 Side Bend**, original JPEG `1EyyW6J7n4f_dmdKrQvx2bIq1c3TVwAYG`, printed p.106: directly inspected three main frames and opposite-side variation; breathing, start, movement/watch points and three variations transcribed in separate audit. **PARTIAL**; handwriting, exact foot contact, gaze unresolved.
+- **038 Swan**, original JPEG `1HnuYCjS-L_Nq7_3DPlS3HfVknTnZhJB4`, printed p.107: directly inspected five frames, source breath, watch points and variations. **PARTIAL**; five-frame mapping to three breaths, handwriting and foot pressure unresolved.
+- **039 Spinal Extension**, original JPEG `18QrgAfX1z3F-nsFQEQRMO71XLqjZb3EB`, printed p.108: directly inspected three frames, starting hip lateral rotation, breath, watch points and variations. **PARTIAL**; gaze, actual foot pressure, muscle attribution unresolved.
+- Detailed PRINTED SOURCE / PHOTO / COACHING / RETRY separated in `source-audits/barrel-037-039-p106-108.md`. Large canonical `movement-manual.html` content fetch remains empty with nonempty blob SHA, so no destructive overwrite. **NEXT** Barrel 040–042 and Curl Up/Roll Up independent cross-check; merge audits safely later. No fully verified count increment; 186-image and public Pages final checks pending.
