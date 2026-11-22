@@ -2482,3 +2482,10 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - **032 p.101 Round Back With Twist sequence** original JPEG opened; all nine frames matched against p.100 sequence, Ladder foot contact and pelvic support observed. **PARTIAL**; gaze and exact foot pressure unknown.
 - **033 p.102 Lean** original JPEG opened; nine-phase breathing, starting position, muscle/watch points and Box variation inspected. **PARTIAL**; next p.103 image needed to check Lean phases.
 - Saved detailed source/photo/coaching separation to `source-audits/barrel-031-033-p100-102.md`; canonical HTML not overwritten because large-file fetch yielded empty text. **NEXT** Barrel 034–036; later safe merge. No FULL VERIFIED increment.
+
+## 2026-11-22 22:56 KST — Barrel 034–036 original photo review
+- **034 Lean sequence**, original JPG `1ZYw_6E6Ecdhk9SCM32tJ4ZAhfIqmdxZt`, printed p.103: opened and visually inspected nine numbered poses, Ladder feet and overhead pole; handwritten marks and breathing mapping remain unresolved. **PARTIAL**.
+- **035 Tree Prep instructions**, original JPG `1Joqg1fulSvbOV5wFWRNQf7YQsM54FhQx`, printed p.104: opened and checked source Why, Starting Position, full breath sequence, Movement/Watch Points and variations. **PARTIAL**.
+- **036 Tree Prep sequence**, original JPG `1Hap-fSx3OOLLlhJbdPtoCsReHLHZYnAN`, printed p.105: opened and compared eight photo phases with p.104. Exact gaze, foot pressure, photo-to-breath alignment remain uncertain. **PARTIAL**.
+- Detailed source/photo/coaching/uncertainty separation saved to `source-audits/barrel-034-036-p103-105.md`. Canonical large `movement-manual.html` fetch returned empty content despite nonempty SHA; not overwritten to avoid content loss.
+- **NEXT:** Barrel 037–039; retry unresolved p.103 handwriting and Tree Prep phase-to-breath mapping; safely merge audit files later. No photos newly marked fully verified; public site and 186-photo QC remain pending.
