@@ -2537,3 +2537,9 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 ## 2026-11-23 07:03 KST — Barrel 041 Bicycle original retry
 - Reopened original Drive JPEG `18fQzpeAODhNn6937VDYdPoID6Y3XqFFH`, printed p.110. Independently verified that the last two printed breathing lines both say **INHALE**, not a transcription mistake. Six image frames reviewed; exact breath/frame matching and whether print is an erratum remain unresolved.
 - Source/photo/coaching/retry details appended to `source-audits/barrel-040-042-p109-111.md`. **041 PHOTO RECHECKED / PARTIAL**, no FULL VERIFIED increment. Do not silently change the source breath. Next: retry remaining partial photographs, then canonical HTML merge after safe full read; public deployment and 186-photo QC pending.
+
+## 2026-11-23 08:04 KST — Reformer Coordination printed p.33
+- Opened actual Drive JPEG `1a28MuHM_5LD9-kGFJlF-oPrcuj2UH4xs` and visually read the complete printed page, including four photographs. Printed breathing: INHALE Reach Leg & Arm → EXHALE Hip Abduction & Adduction → INHALE Knee Flexion → EXHALE Elbow Flexion & Return. Source Why, Starting Position, Movement Point, Watch Point and two Variations captured separately from visual observations and instructor supplements.
+- Detailed record: `source-audits/reformer-coordination-p33-2026-11-23.md`, commit `f25a4c77240e15be694549ceae44f41cee7c21f1`.
+- **STATUS: PHOTO INSPECTED / PARTIAL, NOT FULLY VERIFIED**. Handwriting, exact contact/gaze, carriage and shoulder-rest geometry and photo-to-abduction mapping remain unresolved. No increment to FULL VERIFIED count.
+- **NEXT:** inspect other previously incomplete apparatus originals, particularly Reach & Bend continuation/instructions; reconcile photo-to-source ambiguities. Large `movement-manual.html` GitHub read returned empty text despite a nonempty blob SHA; preserve rather than overwrite. Full 186-photo QC and public Pages HTTP verification pending.
