@@ -24,3 +24,10 @@ Potential emphasis: hamstring length with forward-leg reach; anterior hip/thigh 
 3. Determine exact foot dorsiflexion/plantarflexion changes, barrel contact, gaze, pelvic rotation and photo-to-breath mapping.
 4. Compare left/right repetition instructions, if any, with surrounding pages.
 5. Keep this photo PARTIAL; do not increment full verification count.
+
+## 2026-11-23 06:00 KST — repeat direct image comparison
+- Reopened the original JPEG, confirmed all twelve numbered frames and printed p.115. Frame **1** shows the elevated foot approximately pointed/plantarflexed, whereas frame **2** shows the toes lifted and ankle dorsiflexed. This is a **visible position difference**, not proof of a prescribed breath or repetition.
+- **Frames 3–4** show an overhead arm reach while the elevated leg remains extended on the barrel; **frame 5** changes to a forward trunk fold. The photo series alone does not specify an inhale/exhale assignment.
+- **Frames 6–8** show a bent raised leg resting on the barrel with the standing leg reaching backward, then chest opening and a forward fold. The exact raised-leg contact surface (knee versus shin) remains uncertain.
+- **Frames 9–10** show the raised leg straight and a side-reaching arm/trunk pattern; **11–12** instead show the rear foot resting on the barrel with the standing knee bending in frame 12. These are separate configurations; do not describe all twelve as one continuous stretch without evidence.
+- The handwritten red annotation near frame 1 remains insufficiently clear to certify. No separate printed breathing, gaze target, muscle list or safety instructions on this photographed page. **Status remains PARTIAL**; no increase to verified-photo count.
