@@ -2475,3 +2475,10 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - **029 Round Back**: opened actual JPEG `1Q0kDyGRBxxz3O5RJLryMKOc8eXRkTFa3`; confirmed INHALE ready / EXHALE roll back / INHALE lift arm / EXHALE flexion forward / INHALE return, sequential articulation and C-curve, Ladder foot support. **PARTIAL**, handwritten notes and exact contact unresolved.
 - **030 Flat Back**: opened actual JPEG `1Ww94wKVfdIC-ngCsslyujLfJ38sL069Y`; confirmed INHALE ready / EXHALE flat back (hip extension) / INHALE return; Pole overhead, neutral-spine hip hinge and pole-free variation. Printed Movement Point couples Hip Extension and Hip Flexor; preserve wording pending anatomy clarification. **PARTIAL**, exact gaze/foot contact unresolved.
 - Detailed PRINTED SOURCE / PHOTO / COACHING / RETRY audit committed in `source-audits/barrel-028-030-p97-99.md` (`fac2a275`). Large `movement-manual.html` not overwritten without reliable full read. **NEXT:** Barrel 031–033, then 034–039; merge audits into canonical manual safely. No addition to fully verified count; 186-photo final QC and public Pages check pending.
+
+
+## 2026-11-22 22:03 KST — Barrel 031–033 originals
+- **031 p.100 Round Back With Twist** original JPEG opened; source Why, start, nine-phase breathing, movement/watch points and Reformer Box variation inspected. **PARTIAL**; handwritten note and photo phases need comparison.
+- **032 p.101 Round Back With Twist sequence** original JPEG opened; all nine frames matched against p.100 sequence, Ladder foot contact and pelvic support observed. **PARTIAL**; gaze and exact foot pressure unknown.
+- **033 p.102 Lean** original JPEG opened; nine-phase breathing, starting position, muscle/watch points and Box variation inspected. **PARTIAL**; next p.103 image needed to check Lean phases.
+- Saved detailed source/photo/coaching separation to `source-audits/barrel-031-033-p100-102.md`; canonical HTML not overwritten because large-file fetch yielded empty text. **NEXT** Barrel 034–036; later safe merge. No FULL VERIFIED increment.
