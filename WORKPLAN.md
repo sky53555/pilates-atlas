@@ -2510,3 +2510,9 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - **045 Grasshopper**, Drive `12O1XoSCC4tL1KzcxP4JDsLMDms-KvQxG`, printed p.114: actual JPEG opened; 7 photos, 5 printed breathing phases, starting posture, hip rotation, movement/watch points recorded. **PARTIAL**; precise photo-to-breath mapping, handwriting and crossed-feet sequence unresolved.
 - Audit committed: `source-audits/barrel-043-045-p112-114.md` (commit `c095aa50b0e8d2047a217d0651754846ba15afb8`). Printed source / visual observation / instructor coaching / retry separated. No increment to FULL VERIFIED count.
 - Canonical `movement-manual.html` fetch returned empty content with nonempty blob SHA; preserve file and merge only after reliable full read. **NEXT** Barrel 046 Ballet Stretch, then partial retries and canonical integration. Full 186-photo QC and final public deployment confirmation pending.
+
+
+## 2026-11-23 03:00 KST — Barrel 046 original photo inspection
+- **046 Ballet Stretch**, Google Drive JPG `1TLDnaI6QgM31KOnu-rplZo9oPFwA0YrB`, printed p.115: opened actual image and visually inspected all **12 numbered frames**. Source only prints heading and photo numbers; no printed breathing, muscle, watch-point or variation text is visible. Detailed posture/hip/foot/gaze observations and clearly labeled instructor-only interpretations saved in `source-audits/barrel-046-p115.md`. **PARTIAL / NOT FULLY VERIFIED**.
+- **RETRY:** red handwriting, contact and foot flexion, precise gaze, pelvic orientation, any breathing or instructions on adjacent pages. Do not count as fully verified.
+- **NEXT:** resume unresolved photo-by-photo partial reviews, especially Curl Up versus Roll Up; integrate source audits into canonical HTML only after reliable complete read. `movement-manual.html` fetch still returns empty content despite nonempty SHA, so it was not overwritten. Full 186-image QC and public deployment final verification remain pending.
