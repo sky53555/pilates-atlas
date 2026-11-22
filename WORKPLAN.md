@@ -2533,3 +2533,7 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 ## 2026-11-23 06:00 KST — Barrel 046 photo recheck
 - Reopened original Ballet Stretch JPEG `1TLDnaI6QgM31KOnu-rplZo9oPFwA0YrB`, printed p.115. Rechecked 12 frames, distinguished elevated ankle plantarflexion vs dorsiflexion (1–2), overhead reach vs fold (3–5), bent raised-leg stretch (6–8), lateral reach (9–10), and rear-foot-supported stretch (11–12).
 - Updated `source-audits/barrel-046-p115.md` with visual evidence and explicitly unresolved handwriting, breathing, muscle, exact contacts and gaze. **PARTIAL / NOT FULLY VERIFIED**; count unchanged. Next: adjacent-page comparison and remaining incomplete apparatus photos. Canonical HTML not overwritten due empty content on large-file fetch; public final QC pending.
+
+## 2026-11-23 07:03 KST — Barrel 041 Bicycle original retry
+- Reopened original Drive JPEG `18fQzpeAODhNn6937VDYdPoID6Y3XqFFH`, printed p.110. Independently verified that the last two printed breathing lines both say **INHALE**, not a transcription mistake. Six image frames reviewed; exact breath/frame matching and whether print is an erratum remain unresolved.
+- Source/photo/coaching/retry details appended to `source-audits/barrel-040-042-p109-111.md`. **041 PHOTO RECHECKED / PARTIAL**, no FULL VERIFIED increment. Do not silently change the source breath. Next: retry remaining partial photographs, then canonical HTML merge after safe full read; public deployment and 186-photo QC pending.
