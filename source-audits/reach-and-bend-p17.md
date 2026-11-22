@@ -1,0 +1,13 @@
+# Reach & Bend — photographed original p.17
+
+Source: https://drive.google.com/file/d/1e1vf__coCEBzjRXYLcMIPAsNhO6Sb2fi/view
+
+
+
+## 2026-11-22 20:02 KST — Reach & Bend photographed p.17 (new original-image inspection)
+- **IMAGE OPENED:** Apparatus Drive JPG `1e1vf__coCEBzjRXYLcMIPAsNhO6Sb2fi`, filename `Reformer - Reach and Bend - Part 1`, printed page **17**. The actual page shows three named movement groups: **1 Parallel, 2 Lateral Rotation, 3 Medial Rotation**, each pictured in three frames (nine photos total).
+- **PRINTED SOURCE:** The photograph shows movement names and sequences only; no legible printed Why, Starting Position, Inhale/Exhale, Movement Point, Watch Point or Variation paragraphs on this page. Do **not** invent them or claim printed breath cues.
+- **PHOTO OBSERVATION:** Model sits upright against a vertical support with shoulder-rest padding behind the upper shoulders, hands at the sides supporting the trunk. Both feet are placed in the two strap/loop supports and move between bent-knee and extended-knee positions. Parallel shows feet and knees aligned approximately forward; Lateral Rotation shows outwardly oriented leg/foot position; Medial Rotation shows inward orientation. In all three, the hips and knees visibly change flexion angles while the torso stays comparatively upright. Exact joint rotation angle, foot load, strap tension, spring setting, gaze target and anatomical muscle activation cannot be reliably established from this page.
+- **COACHING ONLY (not printed source):** Maintain controlled pelvic/trunk alignment, avoid locking knees, keep movement within comfortable hip rotation and monitor foot/ankle alignment. Suggested muscles for review: quadriceps for knee extension, hip flexors/abdominals for trunk and leg positioning, hip rotators for rotation control; these are biomechanical hypotheses, not original text or directly measurable photo findings.
+- **STATUS:** photo inspected / named patterns verified / **PARTIAL — NOT FULLY VERIFIED**. **RETRY:** inspect continuation page, compare complete source breathing, watch points and variations; confirm whether the equipment pictured matches the Reformer label (apparatus identification from cropped photo is uncertain), hand-written annotation, foot-loop placement and contact, rotation terminology, and gaze. No increase in fully verified count.
+- **INTEGRITY:** Current `movement-manual.html` GitHub fetch returns an empty content field while reporting nonempty blob SHA `ae3354208a6e6af6cadaac36fd9ac32072e388c0`. To avoid overwriting the established large manual, this new record is saved in separate `source-audits/reach-and-bend-p17.md` pending a safe read/merge of the canonical HTML. The manual was **not** replaced.
