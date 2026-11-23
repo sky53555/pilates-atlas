@@ -2617,3 +2617,8 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - **023 Single Leg Standing p.91** Drive `1tsSrgjBpuS5t2jhwzzTt0Xuu9On6huxB`: Front/Side plus handle variation photographed; printed two-phase breath, hip/knee, balance and foot cautions checked. **PARTIAL / NOT VERIFIED**; retry handwriting, exact pedal-foot contact and phase matching.
 - **024 Step Up p.92** Drive `1XPhJxHYzTxRnurDXeL7zkC5Q2CVR4R8C`: five main frames, two variation thumbnails, four printed breathing phases checked. **PARTIAL / NOT VERIFIED**; retry heel/forefoot mechanics, handwriting, spring and phase mapping.
 - SOURCE, PHOTO, COACHING and RETRY records saved to `source-audits/chair-022-024-p90-92-2026-11-23.md`. **+3 unique photo-inspected, +0 fully verified**. Next: Chair 025 and remaining uninspected apparatus images, retry uncertain items. Canonical HTML full read and final public HTTP check pending.
+
+## 2026-11-23 22:04 KST — Chair 026 Rotation Prone p.94 photo recheck
+- Original JPEG `15YSsain0I0forfAdQ9H8EAZL1SSf8RkH` reopened and all five frames inspected against printed Why / Starting Position / four breath phases / Movement / Watch / Variation.
+- Saved `source-audits/chair-026-rotation-prone-p94-recheck-2026-11-23.md` with distinct SOURCE / PHOTO / provisional HANDWRITING / COACHING / RETRY sections. Handwritten Watch Point may say “흉추를 들어서 X”, but **not confirmed**. Feet do not visibly touch floor or pedal; exact gaze, loading, spring, pressure and handwritten details remain unknown.
+- **PHOTO RECHECKED / PARTIAL, NOT FULLY VERIFIED**; +0 unique images, +0 full verification. Next: other incomplete photos, handwritten retries and safe HTML integration. Do not overwrite large `movement-manual.html` from empty fetch.
