@@ -2582,3 +2582,10 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 ## 2026-11-23 — Cadillac Sitting Arm Away Spring Series p.41
 - Original image `1olHHdBzp4gp8crAzdwLPrsb15xbfPojA` inspected. Drive filename incorrectly says Reformer; printed page says Cadillac. Audit: `source-audits/cadillac-sitting-arm-away-spring-series-p41-2026-11-23.md`.
 - **PARTIAL / NOT VERIFIED:** five listed exercises but two pictured positions; printed breathing refers to Reformer series. Exact gaze, feet, handwritten notes and photo-to-exercise mapping remain retry items. +1 inspected, +0 verified.
+
+
+## 2026-11-23 15:57 KST — Reformer Mid-Back Series p.29
+- Opened original image `1q-hP2Ncuph_xuZ14TZjvN40vDU9QojX-` (printed p.29) and directly inspected two pictured exercises: Straight Press Down (3 photos) and Triceps Press Down (2 photos).
+- Verified leg-folding/feet suspended and printed breath sequences; documented photo observation separately from instructor interpretation in `source-audits/reformer-mid-back-series-p29-2026-11-23.md`.
+- **Status: partial verification**; unclear handwriting, exact gaze/hip angles, and missing source sections remain unresolved. Do not increment fully verified count.
+- **Next:** Mid-Back Series p.30–32 (Drive IDs `1ksXr4RmPOUVKHQrVq6xsKMMeh5S0V3Pg`, `1XIh47b2Hx_EmwAN3tcAaBrFEIi-FnJ32`, `1yQY7Uqt8GgJ0WS6-rBYobD5VgLDoKTlZ`); retry unclear p.29 annotations.
