@@ -2561,3 +2561,9 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - **Chest Expansion p.38**, Drive `1oYdKa5ItFdB1r8YS0YXwiPaLuV4PCxhV`: actual JPEG opened, five poses inspected. Source Why, Starting Position, five printed breathing phases, Movement Point, Watch Point and Pulse variation recorded; observed kneeling, arm extension, head rotation and foot/shin contact separated from coaching.
 - Detailed audit: `source-audits/reformer-chest-expansion-p38-2026-11-23.md`. **PHOTO INSPECTED / PARTIAL, NOT FULLY VERIFIED**. Retry handwriting, gaze direction, breath/frame matching, exact toe/foot pressure; no full verified increment.
 - `movement-manual.html` GitHub content fetch returned empty text with nonempty blob SHA, so canonical HTML was not overwritten. **NEXT:** remaining incomplete Reformer/Cadillac originals, partial-photo retries, safe canonical integration, 186-photo final QC and public HTTP check.
+
+## 2026-11-23 11:56 KST — Reformer Back Rowing Round Back p.34
+- Original Drive JPEG `1OE8hmDRxTbpXHtP94ebpumX6J8yDXep2` opened visually. Four frames and printed Why / Starting Position / five-step Breathing / Movement Point / Watch Point inspected.
+- Audit: `source-audits/reformer-back-rowing-round-back-p34-2026-11-23.md`; source, image observation, coaching and retries separated. **PHOTO INSPECTED / PARTIAL; NOT FULLY VERIFIED**. No verified-count increase.
+- Retry: handwritten annotation, exact heel/shoulder-rest support, photo-to-breath correspondence, comparison with Flat Back p.35.
+- `movement-manual.html` connector fetch gave empty content despite nonempty SHA; intentionally not overwritten. **NEXT:** Flat Back original p.35, then unresolved apparatus images and safe canonical merge. Final 186-image QC and public HTTP check pending.
