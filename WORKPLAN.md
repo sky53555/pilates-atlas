@@ -2589,3 +2589,10 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - Verified leg-folding/feet suspended and printed breath sequences; documented photo observation separately from instructor interpretation in `source-audits/reformer-mid-back-series-p29-2026-11-23.md`.
 - **Status: partial verification**; unclear handwriting, exact gaze/hip angles, and missing source sections remain unresolved. Do not increment fully verified count.
 - **Next:** Mid-Back Series p.30–32 (Drive IDs `1ksXr4RmPOUVKHQrVq6xsKMMeh5S0V3Pg`, `1XIh47b2Hx_EmwAN3tcAaBrFEIi-FnJ32`, `1yQY7Uqt8GgJ0WS6-rBYobD5VgLDoKTlZ`); retry unclear p.29 annotations.
+
+
+## 2026-11-23 17:02 KST — Mid-Back original p.30–32
+- **p.30**, Drive `1ksXr4RmPOUVKHQrVq6xsKMMeh5S0V3Pg`: Side Press Down (2 images) and Arm Circle (3 images). Printed inhale/exhale sequences and Leg Folding start compared with photographs. **PHOTO INSPECTED / PARTIAL**, handwriting, feet and breath-to-frame unresolved.
+- **p.31**, Drive `1XIh47b2Hx_EmwAN3tcAaBrFEIi-FnJ32`: Why, Movement Point, Watch Point and four variations checked against two photographs. **PHOTO INSPECTED / PARTIAL**, image-to-variation correspondence and foot support unresolved.
+- **p.32**, Drive `1yQY7Uqt8GgJ0WS6-rBYobD5VgLDoKTlZ`: **Drive file says Reformer but printed page heading is Cadillac**. Four named Mid-Back exercises are Cadillac spring adaptations; photographed straps/tower and six variation options reviewed. **PHOTO INSPECTED / PARTIAL**, contact and handwriting unresolved. Do not import under Reformer without correcting category.
+- Separate printed SOURCE / PHOTO / COACHING / RETRY records: `source-audits/mid-back-p30-32-2026-11-23.md`. **+3 inspected originals, +0 fully verified**; avoid double-counting previously inspected photos. NEXT: remaining uninspected Apparatus photos and partial retries, safe HTML integration, public deployment verification.
