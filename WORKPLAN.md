@@ -2567,3 +2567,7 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - Audit: `source-audits/reformer-back-rowing-round-back-p34-2026-11-23.md`; source, image observation, coaching and retries separated. **PHOTO INSPECTED / PARTIAL; NOT FULLY VERIFIED**. No verified-count increase.
 - Retry: handwritten annotation, exact heel/shoulder-rest support, photo-to-breath correspondence, comparison with Flat Back p.35.
 - `movement-manual.html` connector fetch gave empty content despite nonempty SHA; intentionally not overwritten. **NEXT:** Flat Back original p.35, then unresolved apparatus images and safe canonical merge. Final 186-image QC and public HTTP check pending.
+
+## 2026-11-23 13:00 KST — Reformer Back Rowing Flat Back p.35
+- Opened original Google Drive image `1_cqubVVZaCnYWLVylpk1-0nGdD7IKTjT`; printed page 35. Compared 6 photos with printed six-phase breathing sequence, start position, movement points, watch points. Recorded distinct SOURCE / PHOTO OBSERVATION / COACHING and uncertainties in `source-audits/reformer-back-rowing-flat-back-p35-2026-11-23.md`.
+- **Status: partial verification** (handwriting, exact foot contact, gaze and repetition interpretation still pending). Next run: retry these details, then advance to other unverified apparatus photographs. `movement-manual.html` not overwritten without complete source comparison.
