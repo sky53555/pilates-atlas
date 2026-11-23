@@ -2578,3 +2578,7 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - **p.37**, original JPEG `1RUJDFzInYCmXywuZS5cMSYW-r3rtZamd`: opened and visually inspected 3 Salute photos; compared printed start, three-phase breathing, movement/watch points and variations. **PHOTO INSPECTED / PARTIAL; NOT FULLY VERIFIED**.
 - Audit: `source-audits/reformer-sitting-arm-forward-footbar-p36-37-2026-11-23.md`. Source text, photo observations, instructor supplements and retry items kept separate. **+2 photo-inspected, +0 fully verified**.
 - **RETRY:** handwritten notes, variation wording, precise foot contact/gaze and photographed shoulder motion; continue other incomplete Reformer originals next. Canonical `movement-manual.html` read returned empty text with nonempty SHA and was not overwritten. Final 186-photo QC and public Pages HTTP confirmation pending.
+
+## 2026-11-23 — Cadillac Sitting Arm Away Spring Series p.41
+- Original image `1olHHdBzp4gp8crAzdwLPrsb15xbfPojA` inspected. Drive filename incorrectly says Reformer; printed page says Cadillac. Audit: `source-audits/cadillac-sitting-arm-away-spring-series-p41-2026-11-23.md`.
+- **PARTIAL / NOT VERIFIED:** five listed exercises but two pictured positions; printed breathing refers to Reformer series. Exact gaze, feet, handwritten notes and photo-to-exercise mapping remain retry items. +1 inspected, +0 verified.
