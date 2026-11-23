@@ -22,3 +22,9 @@ Cue: maintain an even hand grip without forcefully pulling the pedal; roll the s
 - Source lists hip abduction/adduction among Movement Points, but the four main frames do not show an explicit separate ab/adduction step; do not invent one.
 - Reconcile with other Chair Roll Over/Mat Roll Over pages without conflating their breathing or hand contact.
 - Full canonical movement-manual.html integration pending a safe complete file read.
+
+## 2026-11-23 19:00 KST — repeat visual check (same source photo; no new verified count)
+- Reopened the full-resolution original JPEG and compared the printed sequence against the four main frames and Jack Knife inset. Confirmed that the **second frame is hip flexion with pelvis grounded**, while the third is the spinal rollover; the last frame returns to a low diagonal leg position. Do not insert a separate abduction/adduction breathing phase: the printed sequence has exactly four phases.
+- The red annotation above the first photo reads **“당기지 X”** (do not pull), consistent with the printed caution against excessively pulling the pedal. The red note next to the third frame appears to read **“시선 방향”**, but the exact instruction/arrow direction is not independently established; preserve as uncertain rather than a definitive gaze cue.
+- Printed start explicitly says **Imprinting**, not neutral pelvis. Both hands grip pedal ends; neither foot contacts the pedal. The handwritten notes do not establish a spring load.
+- **STATUS remains PHOTO RECHECKED / PARTIAL**, with unresolved exact gaze instruction, red-arrow significance, spring tension and contact loading. The main-frame hip ab/adduction discrepancy remains documented; do not count as fully verified.
