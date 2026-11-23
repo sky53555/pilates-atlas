@@ -2571,3 +2571,10 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 ## 2026-11-23 13:00 KST — Reformer Back Rowing Flat Back p.35
 - Opened original Google Drive image `1_cqubVVZaCnYWLVylpk1-0nGdD7IKTjT`; printed page 35. Compared 6 photos with printed six-phase breathing sequence, start position, movement points, watch points. Recorded distinct SOURCE / PHOTO OBSERVATION / COACHING and uncertainties in `source-audits/reformer-back-rowing-flat-back-p35-2026-11-23.md`.
 - **Status: partial verification** (handwriting, exact foot contact, gaze and repetition interpretation still pending). Next run: retry these details, then advance to other unverified apparatus photographs. `movement-manual.html` not overwritten without complete source comparison.
+
+
+## 2026-11-23 14:03 KST — Reformer Sitting Arm Forward Footbar p.36–37
+- **p.36**, original JPEG `1HUDOyrFyOiQkxPPWBuz8NvpOAxKCjIOI`: opened and visually inspected 6 photos for Straight Forward and Hugging Arm; compared printed Why, Starting Position, three-phase breathing, Movement Point and Watch Point. **PHOTO INSPECTED / PARTIAL; NOT FULLY VERIFIED**.
+- **p.37**, original JPEG `1RUJDFzInYCmXywuZS5cMSYW-r3rtZamd`: opened and visually inspected 3 Salute photos; compared printed start, three-phase breathing, movement/watch points and variations. **PHOTO INSPECTED / PARTIAL; NOT FULLY VERIFIED**.
+- Audit: `source-audits/reformer-sitting-arm-forward-footbar-p36-37-2026-11-23.md`. Source text, photo observations, instructor supplements and retry items kept separate. **+2 photo-inspected, +0 fully verified**.
+- **RETRY:** handwritten notes, variation wording, precise foot contact/gaze and photographed shoulder motion; continue other incomplete Reformer originals next. Canonical `movement-manual.html` read returned empty text with nonempty SHA and was not overwritten. Final 186-photo QC and public Pages HTTP confirmation pending.
