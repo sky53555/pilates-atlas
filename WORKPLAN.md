@@ -2643,3 +2643,10 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - Checked printed Why, Starting Position, Breathing (Prep four phases vs Short Spine six phases), Movement Point, Watch Point, Variation and visual foot straps, pelvis, legs, trunk/arm support. Kept source text, photo observation, instructor coaching and uncertainties separate in `source-audits/reformer-short-spine-prep-and-short-spine-p26-27-2026-11-24.md`.
 - **BOTH PHOTO INSPECTED / PARTIAL, NOT VERIFIED.** +2 newly inspected originals; +0 fully verified. Retry precise strap-foot contact, spring, gaze, cervical loading, printed watch-point nuances and image-to-breath correspondence. Do not confuse Short Spine with Long Spine p.28 or mat Roll Up/Roll Over.
 - `movement-manual.html` connector read remains empty despite a nonempty blob SHA; no unsafe overwrite. **NEXT:** Reformer Coordination p.33 or other uninspected apparatus pages, then partial-photo retries and safe canonical HTML integration. 186-photo final QC and public HTTP check remain outstanding.
+
+
+## 2026-11-24 02:03 KST — Reformer Coordination p.33 original
+- Opened actual JPEG `1a28MuHM_5LD9-kGFJlF-oPrcuj2UH4xs` (printed p.33). Four frames, printed Why, Starting Position, four-phase breathing, Movement Point, Watch Point, two Variations inspected. SOURCE / PHOTO / COACHING / HANDWRITING / RETRY separated in `source-audits/reformer-coordination-p33-2026-11-24.md`.
+- **PHOTO INSPECTED / PARTIAL; NOT VERIFIED** (+1 inspected in this run, +0 fully verified). Four photographed stages do not clearly show printed hip abduction/adduction; handwritten notes and exact gaze/spring remain unresolved. Do not invent image-to-breath mapping.
+- `movement-manual.html` connector fetch returned empty content with nonempty SHA; preserved untouched to avoid destructive replacement.
+- **NEXT:** remaining uninspected Apparatus originals, retry Coordination handwriting and image-phase mapping, then canonical manual integration and 186-photo/public Pages QC.
