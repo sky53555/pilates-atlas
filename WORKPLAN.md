@@ -2636,3 +2636,10 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - Source, independent photo observations, instructor supplements and retry uncertainties saved to `source-audits/reformer-long-spine-p28-2026-11-24.md`.
 - **PHOTO INSPECTED / PARTIAL — NOT FULLY VERIFIED**; +1 unique original inspected in this run, +0 fully verified. Retry red handwriting, exact starting-position text, gaze, hip rotation/frame matching and comparison with Short Spine.
 - `movement-manual.html` fetch still returns empty content with nonempty SHA; left unchanged to prevent data loss. NEXT: inspect Short Spine and other incomplete originals, resolve retries, safe HTML integration and public Pages QC. 186-image final QC not complete.
+
+
+## 2026-11-24 01:03 KST — Reformer Short Spine Prep p.26 and Short Spine p.27
+- Opened original JPEGs directly: Prep `13X5YnQQPjsL0ZMVsd2tNeqWM5xslyhAs` (printed p.26, four photo panels) and Short Spine `1hwXQTyjWq7vhlA3aa10MUVVp2MnqAgEd` (printed p.27, seven panels).
+- Checked printed Why, Starting Position, Breathing (Prep four phases vs Short Spine six phases), Movement Point, Watch Point, Variation and visual foot straps, pelvis, legs, trunk/arm support. Kept source text, photo observation, instructor coaching and uncertainties separate in `source-audits/reformer-short-spine-prep-and-short-spine-p26-27-2026-11-24.md`.
+- **BOTH PHOTO INSPECTED / PARTIAL, NOT VERIFIED.** +2 newly inspected originals; +0 fully verified. Retry precise strap-foot contact, spring, gaze, cervical loading, printed watch-point nuances and image-to-breath correspondence. Do not confuse Short Spine with Long Spine p.28 or mat Roll Up/Roll Over.
+- `movement-manual.html` connector read remains empty despite a nonempty blob SHA; no unsafe overwrite. **NEXT:** Reformer Coordination p.33 or other uninspected apparatus pages, then partial-photo retries and safe canonical HTML integration. 186-photo final QC and public HTTP check remain outstanding.
