@@ -2601,3 +2601,7 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - Opened actual Google Drive JPEG `1vg5Az7JQsJp9hTI8cyFIWf3vgWK4X5RX`, printed p.86. Compared four primary photographed stages and Jack Knife inset against printed Why, Starting Position, four-stage INHALE/EXHALE, Movement Points, Watch Points and two Variations.
 - SOURCE / PHOTO / COACHING / RETRY recorded in `source-audits/chair-018-roll-over-p86-2026-11-23.md`. **PHOTO INSPECTED / PARTIAL; NOT FULLY VERIFIED**. Handwritten notes, spring settings, exact loading and printed hip ab/adduction vs pictured phases require retry. +0 full verified.
 - `movement-manual.html` GitHub partial fetch returned empty content with nonempty SHA; do not overwrite without full read. Next: uninspected Chair/Apparatus photos and partial retries; final 186-photo QC and public Pages check still pending.
+
+## 2026-11-23 19:00 KST — Chair 018 p.86 recheck
+- Original Drive JPEG `1vg5Az7JQsJp9hTI8cyFIWf3vgWK4X5RX` reopened. Printed 4-phase breathing and main-frame order reconfirmed; red “당기지 X” note readable. Printed Imprinting start, hand-to-pedal vs feet-no-pedal contact confirmed. Red gaze-direction note remains uncertain.
+- Updated `source-audits/chair-018-roll-over-p86-2026-11-23.md` in commit `588ee714e912f765028b0e6b0abe96d5a9086ba2`. **PARTIAL / NOT VERIFIED**, no new unique photo or full-verification count. RETRY gaze arrow, spring setting, loading, hip ab/adduction phase discrepancy. Continue other incomplete apparatus photos; canonical HTML safe-read and final public QC still pending.
