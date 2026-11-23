@@ -2658,3 +2658,10 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - **Walking p.24:** 3 photographs, printed INHALE Ready → EXHALE 5-count alternating legs → INHALE 5-count alternating legs → EXHALE Return; source muscles, watch points and variation distinguished from coaching. **PHOTO INSPECTED / PARTIAL, NOT VERIFIED.**
 - Detailed source/photo/coaching/retry audit: `source-audits/cadillac-leg-circle-walking-p23-24-2026-11-24.md`. **+2 directly inspected this run, +0 fully verified** (may have appeared in older logs; do not increment unique total without ID deduplication).
 - **RETRY:** foot strap/arch contact, precise source Korean wording, gaze, spring loads, image-to-breath mapping and original Reformer Leg Circle cross-reference. Canonical `movement-manual.html` empty connector payload: preserve unchanged. Next: other uninspected apparatus originals, partial retries, safe HTML merge and public Pages check.
+
+
+## 2026-11-24 03:55 KST — Reformer Chest Expansion p.38
+- Opened original Google Drive JPEG `1oYdKa5ItFdB1r8YS0YXwiPaLuV4PCxhV` (printed p.38). Compared five photographs with Why, Starting Position, five-phase breathing, Movement Point, Watch Point and Chest Expansion With Pulse variation.
+- Source/photo observations/instructor coaching/retry separated in `source-audits/reformer-chest-expansion-p38-2026-11-24.md`.
+- **PHOTO INSPECTED / PARTIAL; NOT VERIFIED** (+1 newly inspected image, +0 verified). Retry handwriting, exact grip/foot contact, gaze and photo-to-breath mapping, spring settings and precise printed Korean wording.
+- `movement-manual.html` fetch returned empty text despite nonempty SHA; preserved unchanged. Continue other incomplete originals and safe canonical integration; full 186-photo QC and public Pages confirmation pending.
