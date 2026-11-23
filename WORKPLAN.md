@@ -2665,3 +2665,9 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - Source/photo observations/instructor coaching/retry separated in `source-audits/reformer-chest-expansion-p38-2026-11-24.md`.
 - **PHOTO INSPECTED / PARTIAL; NOT VERIFIED** (+1 newly inspected image, +0 verified). Retry handwriting, exact grip/foot contact, gaze and photo-to-breath mapping, spring settings and precise printed Korean wording.
 - `movement-manual.html` fetch returned empty text despite nonempty SHA; preserved unchanged. Continue other incomplete originals and safe canonical integration; full 186-photo QC and public Pages confirmation pending.
+
+## 2026-11-24 — Reformer Mid-Back Series p.29
+- Opened original Drive JPG `1q-hP2Ncuph_xuZ14TZjvN40vDU9QojX-`, photographed p.29; separately identified Straight Press Down and Triceps Press Down with source breathing, starting position, photo posture, suspended feet and instructor-only muscle notes.
+- Status: **photo inspected / partially analyzed, NOT verified**. Handwriting, exact grip, gaze, spring, continuation p.30 pending. Retry p.29 and inspect p.30 next.
+- Audit: `source-audits/reformer-mid-back-series-p29-2026-11-24.md`.
+- `movement-manual.html` GitHub fetch returned empty body with nonempty SHA; preserved unchanged. Retry read safely before editing.
