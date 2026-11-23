@@ -2622,3 +2622,10 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - Original JPEG `15YSsain0I0forfAdQ9H8EAZL1SSf8RkH` reopened and all five frames inspected against printed Why / Starting Position / four breath phases / Movement / Watch / Variation.
 - Saved `source-audits/chair-026-rotation-prone-p94-recheck-2026-11-23.md` with distinct SOURCE / PHOTO / provisional HANDWRITING / COACHING / RETRY sections. Handwritten Watch Point may say “흉추를 들어서 X”, but **not confirmed**. Feet do not visibly touch floor or pedal; exact gaze, loading, spring, pressure and handwritten details remain unknown.
 - **PHOTO RECHECKED / PARTIAL, NOT FULLY VERIFIED**; +0 unique images, +0 full verification. Next: other incomplete photos, handwritten retries and safe HTML integration. Do not overwrite large `movement-manual.html` from empty fetch.
+
+
+## 2026-11-23 22:58 KST — Chair 025 Spine Press on Chair Prep original p.93
+- Original Drive JPEG `1Lo2wC02JN3o85XJdiyEYXJs0kpItLrRe` directly opened; six photographs, printed Why, Starting Position, six-phase Breathing, Movement Point and four Watch Points inspected.
+- SOURCE / PHOTO / COACHING / RETRY separated in `source-audits/chair-025-spine-press-on-chair-prep-p93-2026-11-23.md`. **PHOTO INSPECTED / PARTIAL, NOT FULLY VERIFIED**; +1 newly inspected image, +0 verified.
+- Retry red handwriting, precise hand-back/handle contact, gaze, foot pressure, six-frame breathing correspondence, spring load. No printed Variation section; do not fabricate.
+- Canonical `movement-manual.html` read yielded empty text despite blob SHA; left untouched. NEXT: uninspected Chair/Barrel originals and retries, safe HTML merge, 186-photo QC, public Pages HTTP check.
