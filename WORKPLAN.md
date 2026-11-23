@@ -2629,3 +2629,10 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - SOURCE / PHOTO / COACHING / RETRY separated in `source-audits/chair-025-spine-press-on-chair-prep-p93-2026-11-23.md`. **PHOTO INSPECTED / PARTIAL, NOT FULLY VERIFIED**; +1 newly inspected image, +0 verified.
 - Retry red handwriting, precise hand-back/handle contact, gaze, foot pressure, six-frame breathing correspondence, spring load. No printed Variation section; do not fabricate.
 - Canonical `movement-manual.html` read yielded empty text despite blob SHA; left untouched. NEXT: uninspected Chair/Barrel originals and retries, safe HTML merge, 186-photo QC, public Pages HTTP check.
+
+
+## 2026-11-24 00:03 KST — Reformer Long Spine original p.28
+- Directly opened Drive JPEG `1Ilt2psezx4_z89X6F5SROivMw6n0suM5` (printed p.28). Inspected five photographic frames and printed Why / Starting Position / five-phase breathing / Movement / Watch / Variation.
+- Source, independent photo observations, instructor supplements and retry uncertainties saved to `source-audits/reformer-long-spine-p28-2026-11-24.md`.
+- **PHOTO INSPECTED / PARTIAL — NOT FULLY VERIFIED**; +1 unique original inspected in this run, +0 fully verified. Retry red handwriting, exact starting-position text, gaze, hip rotation/frame matching and comparison with Short Spine.
+- `movement-manual.html` fetch still returns empty content with nonempty SHA; left unchanged to prevent data loss. NEXT: inspect Short Spine and other incomplete originals, resolve retries, safe HTML integration and public Pages QC. 186-image final QC not complete.
