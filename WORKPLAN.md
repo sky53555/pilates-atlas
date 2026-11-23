@@ -2650,3 +2650,11 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - **PHOTO INSPECTED / PARTIAL; NOT VERIFIED** (+1 inspected in this run, +0 fully verified). Four photographed stages do not clearly show printed hip abduction/adduction; handwritten notes and exact gaze/spring remain unresolved. Do not invent image-to-breath mapping.
 - `movement-manual.html` connector fetch returned empty content with nonempty SHA; preserved untouched to avoid destructive replacement.
 - **NEXT:** remaining uninspected Apparatus originals, retry Coordination handwriting and image-phase mapping, then canonical manual integration and 186-photo/public Pages QC.
+
+
+## 2026-11-24 03:02 KST — Cadillac Leg Circle p.23 / Walking p.24 originals
+- Opened original JPEGs `10lZ5LTuzG7HLLsGGpYZ8Ho5E-p7K2Gkn` and `1XXz23hkJJ6d_cr6GywLARuQZvt9-TXsW`. **Both Drive filenames incorrectly say Reformer; printed page headings say Cadillac.**
+- **Leg Circle p.23:** three hip rotation setups (parallel, lateral, medial), printed reference to Reformer circle breathing, unilateral/reciprocal variations, straps and Cadillac rail hand support. One photo does not show all three options. **PHOTO INSPECTED / PARTIAL, NOT VERIFIED.**
+- **Walking p.24:** 3 photographs, printed INHALE Ready → EXHALE 5-count alternating legs → INHALE 5-count alternating legs → EXHALE Return; source muscles, watch points and variation distinguished from coaching. **PHOTO INSPECTED / PARTIAL, NOT VERIFIED.**
+- Detailed source/photo/coaching/retry audit: `source-audits/cadillac-leg-circle-walking-p23-24-2026-11-24.md`. **+2 directly inspected this run, +0 fully verified** (may have appeared in older logs; do not increment unique total without ID deduplication).
+- **RETRY:** foot strap/arch contact, precise source Korean wording, gaze, spring loads, image-to-breath mapping and original Reformer Leg Circle cross-reference. Canonical `movement-manual.html` empty connector payload: preserve unchanged. Next: other uninspected apparatus originals, partial retries, safe HTML merge and public Pages check.
