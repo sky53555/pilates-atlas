@@ -2675,3 +2675,8 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 ## 2026-11-25 — Reformer Mid-Back Series p.30
 - Actual JPG `1ksXr4RmPOUVKHQrVq6xsKMMeh5S0V3Pg` inspected; Side Press Down and Arm Circle source breathing and posture separated from coaching. Audit: `source-audits/reformer-mid-back-series-p30-2026-11-25.md`.
 - Partial, not verified; handwriting, spring, cropped foot/grip and shared cautions pending. Next p.31 and p.32; retry canonical HTML read (empty response), preserve existing file. Verified count unchanged.
+
+
+## 2026-11-25 — Mid-Back p.31–32
+- Actual JPEGs 1XIh47b2Hx_EmwAN3tcAaBrFEIi-FnJ32 (p.31 Reformer shared notes/mixed arms) and 1yQY7Uqt8GgJ0WS6-rBYobD5VgLDoKTlZ (p.32 **Cadillac**, misleading filename) inspected. Cadillac neutral feet-supported start distinguished from Reformer imprinting. Source, photo, coaching and retry separated in `source-audits/mid-back-series-p31-32-2026-11-25.md`.
+- Both partial, not verified. Retry p.29–30 breath cross-reference, p.31 asymmetric angles/cropped feet, p.32 handwriting and spring details. HTML read empty; preserved. Next other incomplete apparatus originals and safe HTML integration; verified count unchanged.
