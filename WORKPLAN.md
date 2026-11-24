@@ -2671,3 +2671,7 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 - Status: **photo inspected / partially analyzed, NOT verified**. Handwriting, exact grip, gaze, spring, continuation p.30 pending. Retry p.29 and inspect p.30 next.
 - Audit: `source-audits/reformer-mid-back-series-p29-2026-11-24.md`.
 - `movement-manual.html` GitHub fetch returned empty body with nonempty SHA; preserved unchanged. Retry read safely before editing.
+
+## 2026-11-25 — Reformer Mid-Back Series p.30
+- Actual JPG `1ksXr4RmPOUVKHQrVq6xsKMMeh5S0V3Pg` inspected; Side Press Down and Arm Circle source breathing and posture separated from coaching. Audit: `source-audits/reformer-mid-back-series-p30-2026-11-25.md`.
+- Partial, not verified; handwriting, spring, cropped foot/grip and shared cautions pending. Next p.31 and p.32; retry canonical HTML read (empty response), preserve existing file. Verified count unchanged.
