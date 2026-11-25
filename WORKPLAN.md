@@ -2680,3 +2680,6 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 ## 2026-11-25 — Mid-Back p.31–32
 - Actual JPEGs 1XIh47b2Hx_EmwAN3tcAaBrFEIi-FnJ32 (p.31 Reformer shared notes/mixed arms) and 1yQY7Uqt8GgJ0WS6-rBYobD5VgLDoKTlZ (p.32 **Cadillac**, misleading filename) inspected. Cadillac neutral feet-supported start distinguished from Reformer imprinting. Source, photo, coaching and retry separated in `source-audits/mid-back-series-p31-32-2026-11-25.md`.
 - Both partial, not verified. Retry p.29–30 breath cross-reference, p.31 asymmetric angles/cropped feet, p.32 handwriting and spring details. HTML read empty; preserved. Next other incomplete apparatus originals and safe HTML integration; verified count unchanged.
+
+## 2026-11-25 — Canonical HTML recovery and integration
+- Contents API returned empty body; `fetch_blob` with the current file SHA returned the complete 766,110-character HTML. Use this fallback on subsequent runs. Preserved existing HTML and integrated the previously inspected p.31–32 audit as a clearly partial section; commit `1a8627bce9fb727aa0c8b83bac1ef334a9c28b7c`. No new photo or verified count. Next: inspect other incomplete originals and merge outstanding audits using full blob reads.
