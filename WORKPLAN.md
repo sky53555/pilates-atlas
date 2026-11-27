@@ -994,9 +994,9 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 
 | Folder | Original Drive filename | Unique Drive ID | Status |
 |---|---|---|---|
-| Apparatus | Reformer - Reach and Bend - Part 2 (리포머 리치 앤 벤드 2).jpg | `18RALGfNyuaUfdf-U8oABRgFOycESLyUV` | PENDING — not certified |
-| Apparatus | Reformer - Reach and Bend - Instructions (리포머 리치 앤 벤드 설명).jpg | `12iPiSzu38QNVPqYzQLb9MS3dITt0MsSx` | PENDING — not certified |
-| Apparatus | Reformer - Reach and Bend - Part 1 (리포머 리치 앤 벤드 1).jpg | `1e1vf__coCEBzjRXYLcMIPAsNhO6Sb2fi` | PENDING — not certified |
+| Apparatus | Reformer - Reach and Bend - Part 2 (리포머 리치 앤 벤드 2).jpg | `18RALGfNyuaUfdf-U8oABRgFOycESLyUV` | PHOTO INSPECTED / PARTIAL — not certified |
+| Apparatus | Reformer - Reach and Bend - Instructions (리포머 리치 앤 벤드 설명).jpg | `12iPiSzu38QNVPqYzQLb9MS3dITt0MsSx` | PHOTO INSPECTED / PARTIAL — not certified |
+| Apparatus | Reformer - Reach and Bend - Part 1 (리포머 리치 앤 벤드 1).jpg | `1e1vf__coCEBzjRXYLcMIPAsNhO6Sb2fi` | PHOTO INSPECTED / PARTIAL — not certified |
 | Apparatus | Reformer - Mermaid (리포머 머메이드).jpg | `1in7IwKvB6TMe3Hq7-Yvjo1fWJhDOEGWN` | PENDING — not certified |
 | Apparatus | Reference - Handwritten Pilates Study Notes (필라테스 필기 정리).jpg | `1Uw9WKexsrfNc8WqqZy0jslhVfnXXBXxc` | PENDING — not certified |
 | Apparatus | Reformer - Back Rowing Series - Round Back (리포머 백 로잉 라운드 백).jpg | `1OAAWMu-CT33IrKV_0F7eWhvARHkpD0Lj` | PENDING — not certified |
@@ -2683,3 +2683,7 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 
 ## 2026-11-25 — Canonical HTML recovery and integration
 - Contents API returned empty body; `fetch_blob` with the current file SHA returned the complete 766,110-character HTML. Use this fallback on subsequent runs. Preserved existing HTML and integrated the previously inspected p.31–32 audit as a clearly partial section; commit `1a8627bce9fb727aa0c8b83bac1ef334a9c28b7c`. No new photo or verified count. Next: inspect other incomplete originals and merge outstanding audits using full blob reads.
+
+## 2026-11-27 — Reach & Bend p.17–19
+- Opened all three original JPEGs directly: p.17 1e1vf__coCEBzjRXYLcMIPAsNhO6Sb2fi (9 frames), p.18 12iPiSzu38QNVPqYzQLb9MS3dITt0MsSx (printed instructions), p.19 18RALGfNyuaUfdf-U8oABRgFOycESLyUV (Cadillac, misleading Reformer filename; 2 frames).
+- Integrated source, photo, coaching and retry sections in canonical HTML commit 5129de12502b3fe0eefaa1ead7f490268eae1146. All three partial, not fully verified; no verified count increment. Retry handwriting, strap contact, spring setup; continue remaining incomplete originals. Raw fetch emitted an RPC error but all three mounted JPEGs were readable locally; no unresolved fetch failure for these IDs.
