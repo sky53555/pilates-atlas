@@ -997,7 +997,7 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 | Apparatus | Reformer - Reach and Bend - Part 2 (리포머 리치 앤 벤드 2).jpg | `18RALGfNyuaUfdf-U8oABRgFOycESLyUV` | PHOTO INSPECTED / PARTIAL — not certified |
 | Apparatus | Reformer - Reach and Bend - Instructions (리포머 리치 앤 벤드 설명).jpg | `12iPiSzu38QNVPqYzQLb9MS3dITt0MsSx` | PHOTO INSPECTED / PARTIAL — not certified |
 | Apparatus | Reformer - Reach and Bend - Part 1 (리포머 리치 앤 벤드 1).jpg | `1e1vf__coCEBzjRXYLcMIPAsNhO6Sb2fi` | PHOTO INSPECTED / PARTIAL — not certified |
-| Apparatus | Reformer - Mermaid (리포머 머메이드).jpg | `1in7IwKvB6TMe3Hq7-Yvjo1fWJhDOEGWN` | PENDING — not certified |
+| Apparatus | Reformer - Mermaid (리포머 머메이드).jpg | `1in7IwKvB6TMe3Hq7-Yvjo1fWJhDOEGWN` | PHOTO INSPECTED / PARTIAL — not certified |
 | Apparatus | Reference - Handwritten Pilates Study Notes (필라테스 필기 정리).jpg | `1Uw9WKexsrfNc8WqqZy0jslhVfnXXBXxc` | PENDING — not certified |
 | Apparatus | Reformer - Back Rowing Series - Round Back (리포머 백 로잉 라운드 백).jpg | `1OAAWMu-CT33IrKV_0F7eWhvARHkpD0Lj` | PENDING — not certified |
 | Apparatus | Reformer - Prone Arm Series - Arms (리포머 프론 암 시리즈 팔).jpg | `1WCTS2w_ZoJS55gyLzhNaYe0UFO3_YpNC` | PENDING — not certified |
@@ -2687,3 +2687,8 @@ Mat → Reformer → Cadillac → Chair → Barrel → Small Props. Within each 
 ## 2026-11-27 — Reach & Bend p.17–19
 - Opened all three original JPEGs directly: p.17 1e1vf__coCEBzjRXYLcMIPAsNhO6Sb2fi (9 frames), p.18 12iPiSzu38QNVPqYzQLb9MS3dITt0MsSx (printed instructions), p.19 18RALGfNyuaUfdf-U8oABRgFOycESLyUV (Cadillac, misleading Reformer filename; 2 frames).
 - Integrated source, photo, coaching and retry sections in canonical HTML commit 5129de12502b3fe0eefaa1ead7f490268eae1146. All three partial, not fully verified; no verified count increment. Retry handwriting, strap contact, spring setup; continue remaining incomplete originals. Raw fetch emitted an RPC error but all three mounted JPEGs were readable locally; no unresolved fetch failure for these IDs.
+
+
+## 2026-11-29 — Reformer Mermaid p.16
+- Actual JPEG 1in7IwKvB6TMe3Hq7-Yvjo1fWJhDOEGWN opened; eight frames and printed purpose, starting position, six breath phases, movement/watch points and lateral-flexion-only variation inspected. SOURCE / PHOTO / COACHING / RETRY integrated in canonical HTML commit f398ba55a5f9af87c39c7d86b046dc8bc4d0d5a7.
+- PARTIAL, not fully verified. Retry handwriting, exact hip/foot contact, gaze, repetition scope and spring settings. No verified count increment. Next pending photo IDs from ledger, prioritizing not previously inspected; final public QC pending.
